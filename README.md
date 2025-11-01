@@ -16,7 +16,7 @@ VINTI is a fast, reliable Vinted bot for resellers with Auto‑Buy, instant noti
 
 ### Features
 - Be the first: instant alerts seconds after a listing goes live
-- Telegram & Discord integrations for team workflows
+- Smart alerts via Discord, Telegram, or browser and even on your phone.
 - Smart Auto‑Buy to secure the best deals
 - Advanced targeting: size, brand, price, location
 - Secure & reliable, available 24/7
@@ -68,7 +68,7 @@ VINTI est un bot Vinted rapide et fiable pour les revendeurs, avec Auto‑Buy, n
 
 ### Fonctionnalités
 - Soyez le premier: alertes en quelques secondes après la mise en ligne
-- Intégrations Telegram & Discord pour vos workflows d’équipe
+- Alertes intelligentes via Discord, Telegram ou votre navigateur — et même sur votre téléphone.
 - Auto‑Buy pour sécuriser les meilleures affaires
 - Ciblage avancé: taille, marque, prix, localisation
 - Sécurisé, fiable, disponible 24/7
