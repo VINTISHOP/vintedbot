@@ -1,6 +1,6 @@
 <div align="center">
 
-# VINTI – Vinted bot with Auto‑Buy, Telegram & Discord
+# VINTI 
 
 [Website](https://vinti.shop) · [App](https://app.vinti.shop) · [Discord](https://discord.gg/XtHueHB9hm)
 
