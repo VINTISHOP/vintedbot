@@ -1,6 +1,6 @@
 <div align="center">
 
-# VINTI 
+# VINTI is a powerful Vinted bot for resellers: smart Auto‑Buy, ultra‑fast sniping, instant alerts on Discord & Telegram, advanced filters…
 
 [Website](https://vinti.shop) · [App](https://app.vinti.shop) · [Discord](https://discord.gg/XtHueHB9hm)
 
