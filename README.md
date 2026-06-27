@@ -1,115 +1,119 @@
 <div align="center">
 
-# VINTI is a powerful Vinted bot for resellers: smart Auto‑Buy, ultra‑fast sniping, instant alerts on Discord & Telegram, advanced filters…
+# ⚡ VINTI
 
-[Website](https://vinti.shop) · [App](https://app.vinti.shop) · [Discord](https://discord.gg/XtHueHB9hm)
+### The fastest Vinted bot for resellers — be first on every deal.
 
-Buy smarter and faster on Vinted — SaaS service, no setup required.
+**Smart Auto‑Buy · Sniping in seconds · Instant alerts on Discord, Telegram & mobile**
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_Website-vinti.shop-6C487D?style=for-the-badge)](https://vinti.shop)
+[![Launch the App](https://img.shields.io/badge/🚀_Launch_App-app.vinti.shop-00C853?style=for-the-badge)](https://app.vinti.shop)
+[![Discord](https://img.shields.io/badge/💬_Discord-1%2C800%2B_members-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XtHueHB9hm)
+
+<br/>
+
+[**▶️ Watch the 30‑second demo**](https://github.com/VINTISHOP/vintedbot/blob/main/VINTI.mp4)
+
+*Buy smarter and faster on Vinted — a SaaS service, no setup required.*
 
 </div>
 
+---
 
 ## 🇬🇧 English
 
-### What is VINTI?
-VINTI is a fast, reliable Vinted bot for resellers with Auto‑Buy, instant notifications, and Telegram & Discord integrations.
+### Why VINTI?
+On Vinted, the best deals are gone in **seconds**. VINTI watches the listings for you 24/7 and alerts you the instant a match appears — so you (or your bot) buy **before everyone else**. No software to install, no maintenance: it just works.
 
-### Features
-- Be the first: instant alerts seconds after a listing goes live
-- Smart alerts via Discord, Telegram, or browser and even on your phone.
-- Smart Auto‑Buy to secure the best deals
-- Advanced targeting: size, brand, price, location
-- Secure & reliable, available 24/7
+### ✨ Features
+- ⚡ **Be first** — instant alerts seconds after a listing goes live
+- 🔔 **Alerts everywhere** — Discord, Telegram, browser, and even on your phone
+- 🤖 **Smart Auto‑Buy** — automatically secure the best deals
+- 🎯 **Advanced targeting** — size, brand, price, condition, location
+- 🌍 **All Vinted countries** supported
+- 🛡️ **Secure & reliable** — running 24/7
 
-### How it works (3 steps)
-1) Submit your search (paste your Vinted URL)  
-2) Receive instant notifications  
-3) Buy in a flash (optionally trigger Auto‑Buy)
+### 🚀 How it works — 3 steps
+1. **Submit your search** — just paste your Vinted URL
+2. **Get instant notifications** — the second a match appears
+3. **Buy in a flash** — manually or with Auto‑Buy
 
-### Pricing
-Choose a plan and start automating your Vinted sourcing.
+### 💎 Plans
+| | **Starter** | **Professional** | **Enterprise** |
+|---|:---:|:---:|:---:|
+| Web bot | ✅ | ✅ | ⭐ Priority |
+| Searches | Limited | Unlimited | Unlimited · multi‑user |
+| Instant notifications | ✅ | ✅ | ✅ Customizable |
+| All Vinted countries | ✅ | ✅ | ✅ |
+| Auto‑Buy | ✅ | ✅ | ✅ |
+| Discord / Telegram | ✅ | ✅ Commercial license | ✅ Advanced license |
+| Dedicated support | — | — | ✅ |
 
-- Starter
-	- The ideal plan for individuals who want to save time and easily access a curated selection of products.
-	- Access to the web bot
-	- Limited searches
-	- Instant notifications
-	- Access to all Vinted countries
-	- Auto‑Buy
-	- Discord / Telegram integration
+> **Starter** — perfect for individuals who want to save time.
+> **Professional** — for freelancers & SMEs who resell, with a commercial license to share access.
+> **Enterprise** — a tailor‑made solution for large‑scale operations.
 
-- Professional
-	- Designed for freelancers and SMEs, this plan lets you quickly source items to resell at optimized prices, with the possibility to share or resell access to your community thanks to a commercial license.
-	- Access to the web bot
-	- Unlimited searches
-	- Instant notifications
-	- Access to all Vinted countries
-	- Auto‑Buy
-	- Discord / Telegram integration with commercial license
+<div align="center">
 
-- Enterprise
-	- A tailor‑made solution for organizations running large‑scale operations, combining performance, efficiency, and profitability.
-	- Priority access to the web bot
-	- Unlimited, multi‑user searches
-	- Instant, customizable notifications
-	- Access to all Vinted countries
-	- Auto‑Buy
-	- Discord / Telegram integration with advanced commercial license
-	- Dedicated support and personalized guidance
+### 👉 Ready to never miss a deal again?
 
-Links: [Open the app](https://app.vinti.shop) · [Join Discord](https://discord.gg/XtHueHB9hm) · [Terms of Use and Sale](https://vinti.shop/terms.html)
+[![Launch the App](https://img.shields.io/badge/🚀_Start_now-app.vinti.shop-00C853?style=for-the-badge)](https://app.vinti.shop)
+[![Join Discord](https://img.shields.io/badge/💬_Join_1%2C800%2B_resellers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XtHueHB9hm)
+
+</div>
+
+<sub>[Open the app](https://app.vinti.shop) · [Join Discord](https://discord.gg/XtHueHB9hm) · [Terms of Service](https://vinti.shop/policies/terms-of-service) · [Privacy](https://vinti.shop/policies/privacy-policy)</sub>
 
 ---
 
 ## 🇫🇷 Français
 
-### Qu’est‑ce que VINTI ?
-VINTI est un bot Vinted rapide et fiable pour les revendeurs, avec Auto‑Buy, notifications instantanées et intégrations Telegram & Discord.
+### Pourquoi VINTI ?
+Sur Vinted, les meilleures affaires partent en **quelques secondes**. VINTI surveille les annonces pour vous 24/7 et vous alerte à l'instant où une pépite apparaît — pour acheter (vous ou votre bot) **avant tout le monde**. Aucun logiciel à installer, aucune maintenance : ça marche, tout simplement.
 
-### Fonctionnalités
-- Soyez le premier: alertes en quelques secondes après la mise en ligne
-- Alertes intelligentes via Discord, Telegram ou votre navigateur — et même sur votre téléphone.
-- Auto‑Buy pour sécuriser les meilleures affaires
-- Ciblage avancé: taille, marque, prix, localisation
-- Sécurisé, fiable, disponible 24/7
+### ✨ Fonctionnalités
+- ⚡ **Soyez le premier** — alertes en quelques secondes après la mise en ligne
+- 🔔 **Alertes partout** — Discord, Telegram, navigateur, et même sur votre téléphone
+- 🤖 **Auto‑Buy intelligent** — sécurise automatiquement les meilleures affaires
+- 🎯 **Ciblage avancé** — taille, marque, prix, état, localisation
+- 🌍 **Tous les pays Vinted** pris en charge
+- 🛡️ **Sécurisé & fiable** — disponible 24/7
 
-### Utilisation (3 étapes)
-1) Créez votre recherche (collez votre URL Vinted)  
-2) Recevez des alertes instantanées  
-3) Achetez en un éclair (déclenchement Auto‑Buy optionnel)
+### 🚀 Comment ça marche — 3 étapes
+1. **Créez votre recherche** — collez simplement votre URL Vinted
+2. **Recevez des alertes instantanées** — dès qu'une annonce correspond
+3. **Achetez en un éclair** — manuellement ou avec l'Auto‑Buy
 
-### Tarifs
-Choisissez l’offre qui vous convient pour automatiser vos achats Vinted.
+### 💎 Offres
+| | **Starter** | **Professionnel** | **Entreprise** |
+|---|:---:|:---:|:---:|
+| Bot web | ✅ | ✅ | ⭐ Prioritaire |
+| Recherches | Limitées | Illimitées | Illimitées · multi‑utilisateurs |
+| Notifications instantanées | ✅ | ✅ | ✅ Personnalisables |
+| Tous les pays Vinted | ✅ | ✅ | ✅ |
+| Achat automatique | ✅ | ✅ | ✅ |
+| Discord / Telegram | ✅ | ✅ Licence commerciale | ✅ Licence avancée |
+| Support dédié | — | — | ✅ |
 
-- Starter
-	- La formule idéale pour les particuliers souhaitant gagner du temps et accéder facilement à une sélection de produits.
-	- Accès au bot web
-	- Recherches limitées
-	- Notifications instantanées
-	- Accès à tous les pays Vinted
-	- Achat automatique
-	- Intégration Discord / Telegram
+> **Starter** — idéal pour les particuliers qui veulent gagner du temps.
+> **Professionnel** — pour les indépendants & PME qui revendent, avec licence commerciale pour partager l'accès.
+> **Entreprise** — une solution sur mesure pour les opérations à grande échelle.
 
-- Professionnel
-	- Conçue pour les indépendants et les PME, cette formule permet d’obtenir rapidement des produits à revendre à un prix optimisé, avec la possibilité de partager ou de vendre l’accès à votre communauté grâce à une licence commerciale.
-	- Accès au bot web
-	- Recherches illimitées
-	- Notifications instantanées
-	- Accès à tous les pays Vinted
-	- Achat automatique
-	- Intégration Discord / Telegram avec licence commerciale
+<div align="center">
 
-- Entreprise
-	- Une solution sur mesure pour les structures menant des opérations à grande échelle, alliant performance, efficacité et rentabilité.
-	- Accès prioritaire au bot web
-	- Recherches illimitées et multi‑utilisateurs
-	- Notifications instantanées et personnalisables
-	- Accès à tous les pays Vinted
-	- Achat automatique
-	- Intégration Discord / Telegram avec licence commerciale avancée
-	- Support dédié et accompagnement personnalisé
+### 👉 Prêt à ne plus jamais rater une affaire ?
 
-Liens: [Accéder à l’app](https://app.vinti.shop) · [Rejoindre Discord](https://discord.gg/XtHueHB9hm) · [CGUV](https://vinti.shop/fr/cguv.html)
+[![Accéder à l'app](https://img.shields.io/badge/🚀_Commencer-app.vinti.shop-00C853?style=for-the-badge)](https://app.vinti.shop)
+[![Rejoindre Discord](https://img.shields.io/badge/💬_Rejoindre_1%2C800%2B_revendeurs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XtHueHB9hm)
+
+</div>
+
+<sub>[Accéder à l'app](https://app.vinti.shop) · [Rejoindre Discord](https://discord.gg/XtHueHB9hm) · [CGUV](https://vinti.shop/policies/terms-of-service) · [Confidentialité](https://vinti.shop/policies/privacy-policy)</sub>
 
 ---
 
+<div align="center">
+<sub>© VINTI — <a href="https://vinti.shop">vinti.shop</a> · Buy smarter, buy faster on Vinted.</sub>
+</div>
