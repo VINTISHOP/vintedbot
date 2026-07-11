@@ -117,3 +117,12 @@ Sur Vinted, les meilleures affaires partent en **quelques secondes**. VINTI surv
 <div align="center">
 <sub>© VINTI — <a href="https://vinti.shop">vinti.shop</a> · Buy smarter, buy faster on Vinted.</sub>
 </div>
+
+---
+
+## 📚 Learn more / En savoir plus
+
+- [What is a Vinted bot? / Qu'est-ce qu'un bot Vinted ?](https://vinti.shop/pages/vinted-bot)
+- [Why your Vinted account is safe with VINTI / L'architecture sans ban](https://vinti.shop/pages/bot-vinted-sans-ban)
+- [VINTI vs V-Tools](https://vinti.shop/pages/vinti-vs-v-tools) · [VINTI vs Distrobot](https://vinti.shop/pages/vinti-vs-distrobot)
+- [Reseller guides / Guides resell](https://vinti.shop/blogs/guides)
