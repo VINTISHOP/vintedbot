@@ -14,7 +14,7 @@
 
 <img src="media/vinti-demo-fr.gif" alt="Démonstration de VINTI : une annonce repérée puis achetée en 1 clic" width="720">
 
-**VINTI surveille Vinted 24h/24, vous alerte en quelques millisecondes et peut acheter à votre place.**
+**VINTI surveille Vinted 24h/24, vous alerte instantanément et peut acheter à votre place.**
 
 [**Voir les formules**](https://vintibot.com/fr#pricing)
 
@@ -25,7 +25,7 @@
 ## Ce que fait VINTI
 
 1. **Il surveille Vinted pour vous, 24h/24, 7j/7**, selon les recherches que vous avez créées.
-2. **Il vous alerte en quelques millisecondes**, dès la mise en ligne d'une annonce qui vous correspond.
+2. **Il vous alerte instantanément**, dès la mise en ligne d'une annonce qui vous correspond.
 3. **Il vous prévient où vous êtes** : dans l'app VINTI, en notification push, sur Discord ou sur Telegram.
 4. **Il vous laisse acheter en 1 clic** grâce à l'Auto-Buy, directement depuis le Flux en temps réel.
 5. **Bientôt, il achètera à votre place** avec l'Auto-Cop : fixez vos critères une fois, VINTI achètera les articles qui y correspondent, même pendant que vous dormez.
@@ -174,7 +174,7 @@ Oui. L'abonnement comporte un engagement de 3 mois ; une résiliation demandée 
 
 <img src="media/vinti-demo-en.gif" alt="VINTI demo: a listing spotted, then bought in 1 click" width="720">
 
-**VINTI watches Vinted 24/7, alerts you within milliseconds and can buy for you.**
+**VINTI watches Vinted 24/7, alerts you instantly and can buy for you.**
 
 [**See the plans**](https://vintibot.com/#pricing)
 
@@ -185,7 +185,7 @@ Oui. L'abonnement comporte un engagement de 3 mois ; une résiliation demandée 
 ## What VINTI does
 
 1. **It watches Vinted for you, 24/7**, based on the searches you create.
-2. **It alerts you within milliseconds**, as soon as a matching listing goes live.
+2. **It alerts you instantly**, as soon as a matching listing goes live.
 3. **It reaches you wherever you are**: in the VINTI app, by push notification, on Discord or on Telegram.
 4. **It lets you buy in 1 click** with Auto-Buy, straight from the real-time feed.
 5. **Soon, it will buy for you** with Auto-Cop: set your criteria once and VINTI will buy the matching items, even while you sleep.
