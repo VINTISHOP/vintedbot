@@ -28,7 +28,7 @@
 2. **Il vous alerte en quelques millisecondes**, dès la mise en ligne d'une annonce qui vous correspond.
 3. **Il vous prévient où vous êtes** : dans l'app VINTI, en notification push, sur Discord ou sur Telegram.
 4. **Il vous laisse acheter en 1 clic** grâce à l'Auto-Buy, directement depuis le Flux en temps réel.
-5. **Il peut acheter à votre place** avec l'Auto-Cop : fixez vos critères une fois, VINTI achète les articles qui y correspondent, même pendant que vous dormez.
+5. **Bientôt, il achètera à votre place** avec l'Auto-Cop : fixez vos critères une fois, VINTI achètera les articles qui y correspondent, même pendant que vous dormez.
 6. **Votre compte reste chez vous** : votre compte Vinted n'est utilisé que depuis l'app de bureau, sur votre propre connexion et à un rythme naturel — jamais depuis nos serveurs.
 
 ## La vidéo
@@ -61,8 +61,8 @@ Recevez vos trouvailles sur votre propre serveur Discord (webhook personnel, une
 ### Auto-Buy : l'achat en 1 clic
 Une annonce vous plaît ? Cliquez sur « Acheter » dans le Flux en temps réel : l'achat est passé par votre app de bureau VINTI, avec votre compte Vinted. Si votre banque demande une validation 3D Secure, VINTI vous l'affiche. Disponible à partir de la formule Plus.
 
-### Auto-Cop : l'achat automatique 24h/24
-Fixez vos critères une fois : VINTI achète automatiquement les articles qui y correspondent, même pendant que vous dormez. Disponible à partir de la formule Plus.
+### Auto-Cop : l'achat automatique 24h/24 (bientôt)
+Fixez vos critères une fois : VINTI achètera automatiquement les articles qui y correspondent, même pendant que vous dormez. Il arrive bientôt dans les formules Plus et Professional ; aujourd'hui, l'achat rapide, c'est l'Auto-Buy en 1 clic.
 
 ### Tous les pays Vinted, au choix par recherche
 Pour chaque recherche, vous choisissez le pays Vinted à surveiller. Mots-clés, catégorie, marque, taille, état, couleur, matière, prix minimum et maximum, mots et vendeurs exclus, note minimale du vendeur : tout se règle dans « Mes filtres ». Vous pouvez aussi importer une URL de recherche Vinted.
@@ -91,7 +91,7 @@ Prix TTC, par mois.
 | Alertes Discord & Telegram, notifications navigateur et téléphone | ✓ | ✓ | ✓ |
 | Achats depuis votre propre connexion, rythme naturel | ✓ | ✓ | ✓ |
 | Auto-Buy (achat en 1 clic) | — | ✓ | ✓ |
-| Auto-Cop (achat automatique 24h/24) | — | ✓ | ✓ |
+| Auto-Cop (achat automatique 24h/24) — bientôt | — | ✓ | ✓ |
 | 3D Secure intégré, suivi des achats | — | ✓ | ✓ |
 | Mode Famille | — | — | ✓ |
 | Usage commercial : revendez l'accès à vos alertes Discord & Telegram | — | — | ✓ |
@@ -121,10 +121,10 @@ En savoir plus : [l'architecture de VINTI](https://vintibot.com/fr/pages/bot-vin
 Choisissez une formule sur [vintibot.com](https://vintibot.com/fr#pricing), créez votre mot de passe, installez l'app de bureau VINTI (Windows ou Mac), connectez-vous à Vinted pour relier votre compte, puis créez vos recherches dans « Mes filtres ».
 
 **Quelle différence entre Auto-Buy et Auto-Cop ?**
-L'Auto-Buy, c'est l'achat en 1 clic : vous voyez l'annonce, vous cliquez, c'est acheté. L'Auto-Cop achète à votre place, selon les critères que vous avez fixés, même la nuit. Les deux sont inclus à partir de la formule Plus. Les alertes Discord et Telegram, elles, ouvrent l'annonce sur Vinted.
+L'Auto-Buy, c'est l'achat en 1 clic : vous voyez l'annonce, vous cliquez, c'est acheté. L'Auto-Cop achètera à votre place, selon les critères que vous avez fixés, même la nuit : il arrive bientôt. Les deux sont inclus à partir de la formule Plus. Les alertes Discord et Telegram, elles, ouvrent l'annonce sur Vinted.
 
 **Dois-je laisser mon ordinateur allumé ?**
-Pour une surveillance complète, l'Auto-Buy et l'Auto-Cop, oui : l'ordinateur doit rester allumé avec l'app de bureau lancée (elle tourne en arrière-plan quand vous fermez la fenêtre).
+Pour une surveillance complète et l'Auto-Buy, oui : l'ordinateur doit rester allumé avec l'app de bureau lancée (elle tourne en arrière-plan quand vous fermez la fenêtre).
 
 **Quels pays Vinted puis-je surveiller ?**
 Tous les pays Vinted. Vous choisissez le pays pour chaque recherche.
@@ -188,7 +188,7 @@ Oui. L'abonnement comporte un engagement de 3 mois ; une résiliation demandée 
 2. **It alerts you within milliseconds**, as soon as a matching listing goes live.
 3. **It reaches you wherever you are**: in the VINTI app, by push notification, on Discord or on Telegram.
 4. **It lets you buy in 1 click** with Auto-Buy, straight from the real-time feed.
-5. **It can buy for you** with Auto-Cop: set your criteria once and VINTI buys the matching items, even while you sleep.
+5. **Soon, it will buy for you** with Auto-Cop: set your criteria once and VINTI will buy the matching items, even while you sleep.
 6. **Your account stays with you**: your Vinted account is only used from the desktop app, on your own connection and at a natural pace — never from our servers.
 
 ## The video
@@ -221,8 +221,8 @@ Get your finds on your own Discord server (personal webhook, one alert per searc
 ### Auto-Buy: 1-click buying
 Like a listing? Click "Buy" in the real-time feed: the purchase goes through your VINTI desktop app, with your own Vinted account. If your bank asks for 3D Secure, VINTI shows it to you. Available from the Plus plan.
 
-### Auto-Cop: automatic buying 24/7
-Set your criteria once: VINTI automatically buys the items that match, even while you sleep. Available from the Plus plan.
+### Auto-Cop: automatic buying 24/7 (coming soon)
+Set your criteria once: VINTI will automatically buy the items that match, even while you sleep. Coming soon to the Plus and Professional plans; today, fast buying means one-click Auto-Buy.
 
 ### Every Vinted country, chosen per search
 For each search, you pick the Vinted country to watch. Keywords, category, brand, size, condition, colour, material, min and max price, excluded words and sellers, minimum seller rating: it's all in "My filters". You can also import a Vinted search URL.
@@ -251,7 +251,7 @@ Prices include VAT, per month.
 | Discord & Telegram alerts, browser and phone notifications | ✓ | ✓ | ✓ |
 | Purchases from your own connection, natural pace | ✓ | ✓ | ✓ |
 | Auto-Buy (1-click buying) | — | ✓ | ✓ |
-| Auto-Cop (automatic buying 24/7) | — | ✓ | ✓ |
+| Auto-Cop (automatic buying 24/7) — coming soon | — | ✓ | ✓ |
 | Built-in 3D Secure, purchase tracking | — | ✓ | ✓ |
 | Family Mode | — | — | ✓ |
 | Commercial use: resell access to your Discord & Telegram alerts | — | — | ✓ |
@@ -281,10 +281,10 @@ Learn more: [how VINTI is built](https://vintibot.com/fr/pages/bot-vinted-sans-b
 Choose a plan on [vintibot.com](https://vintibot.com/#pricing), create your password, install the VINTI desktop app (Windows or Mac), log in to Vinted to link your account, then create your searches in "My filters".
 
 **What's the difference between Auto-Buy and Auto-Cop?**
-Auto-Buy is 1-click buying: you see the listing, you click, it's bought. Auto-Cop buys for you, based on the criteria you set, even at night. Both are included from the Plus plan. Discord and Telegram alerts open the listing on Vinted.
+Auto-Buy is 1-click buying: you see the listing, you click, it's bought. Auto-Cop will buy for you, based on the criteria you set, even at night: it's coming soon. Both are included from the Plus plan. Discord and Telegram alerts open the listing on Vinted.
 
 **Do I need to keep my computer on?**
-For full monitoring, Auto-Buy and Auto-Cop, yes: your computer must stay on with the desktop app running (it keeps running in the background when you close the window).
+For full monitoring and Auto-Buy, yes: your computer must stay on with the desktop app running (it keeps running in the background when you close the window).
 
 **Which Vinted countries can I watch?**
 Every Vinted country. You choose the country for each search.
