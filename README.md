@@ -93,14 +93,15 @@ Prix TTC, par mois.
 | Auto-Buy (achat en 1 clic) | — | ✓ | ✓ |
 | Auto-Cop (achat automatique 24h/24) | — | ✓ | ✓ |
 | 3D Secure intégré, suivi des achats | — | ✓ | ✓ |
-| Mode Famille, usage commercial | — | — | ✓ |
+| Mode Famille | — | — | ✓ |
+| Usage commercial : revendez l'accès à vos alertes Discord & Telegram | — | — | ✓ |
 | Support | Discord | Discord | Prioritaire |
 
 **Engagement de 3 mois** à la souscription. Résiliation possible à tout moment, prise en compte à la fin des 3 mois (frais de résiliation anticipée plafonnés à 50 € TTC) ; ensuite, résiliation libre avec un préavis de 14 jours. Paiement sécurisé par Shopify. Détail dans les [conditions générales](https://vintibot.com/policies/terms-of-service).
 
-### Professional : alimentez votre propre communauté
+### Professional : vendez vos propres alertes
 
-Vous animez un serveur Discord ou un groupe Telegram ? Avec **Professional et ses recherches illimitées**, créez autant de recherches que nécessaire et envoyez chacune d'elles dans le salon de votre choix : sneakers, vintage, enfants, petits prix… Votre communauté reçoit les bonnes affaires dès leur mise en ligne, et vous lui proposez un vrai service d'alertes.
+Vous animez un serveur Discord ou un groupe Telegram ? Avec **Professional et ses recherches illimitées**, créez autant de recherches que nécessaire et envoyez chacune d'elles dans le salon de votre choix : sneakers, vintage, enfants, petits prix… Votre communauté reçoit les bonnes affaires dès leur mise en ligne, et **l'usage commercial est inclus : vous vendez l'accès à vos alertes**. VINTI devient votre propre service d'alertes.
 
 <div align="center">
 
@@ -252,14 +253,15 @@ Prices include VAT, per month.
 | Auto-Buy (1-click buying) | — | ✓ | ✓ |
 | Auto-Cop (automatic buying 24/7) | — | ✓ | ✓ |
 | Built-in 3D Secure, purchase tracking | — | ✓ | ✓ |
-| Family Mode, commercial use | — | — | ✓ |
+| Family Mode | — | — | ✓ |
+| Commercial use: resell access to your Discord & Telegram alerts | — | — | ✓ |
 | Support | Discord | Discord | Priority |
 
 **3-month commitment** when you subscribe. You can cancel at any time; cancellation takes effect at the end of the 3 months (early-termination fee capped at €50 incl. VAT). After that, cancel freely with 14 days' notice. Secure payment by Shopify. Details in the [terms of service](https://vintibot.com/policies/terms-of-service).
 
-### Professional: power your own community
+### Professional: sell your own alerts
 
-Running a Discord server or a Telegram group? With **Professional and its unlimited searches**, create as many searches as you need and send each one to the channel of your choice: sneakers, vintage, kids, bargains… Your community gets deals as soon as they go live, and you offer them a real alert service.
+Running a Discord server or a Telegram group? With **Professional and its unlimited searches**, create as many searches as you need and send each one to the channel of your choice: sneakers, vintage, kids, bargains… Your community gets deals as soon as they go live, and **commercial use is included: you sell access to your alerts**. VINTI becomes your own alert service.
 
 <div align="center">
 
