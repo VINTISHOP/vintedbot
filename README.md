@@ -16,7 +16,7 @@
 - **Real-time feed** — VINTI spots new Vinted listings the moment they go live and shows them in the real-time feed of the VINTI app.
 - **Vinted alerts on Discord & Telegram** — your own Vinted Telegram bot and Discord alerts, plus browser and phone push notifications. Included in every plan.
 - **Auto-Buy (Vinted autobuy)** — like a listing? Buy it in 1 click, straight from the feed.
-- **Auto-Cop** — set your criteria once: VINTI automatically buys the items that match, with no click, even while you sleep. 3D Secure is handled.
+- **Auto-Cop** — set your criteria once: VINTI automatically buys the items that match, with no click, even while you sleep. 3D Secure is handled. Available with the Professional plan.
 - **Tailor-made searches** — keywords, category, brand, size, condition, colour, material, min/max price, excluded words, excluded sellers, minimum seller rating; import a Vinted search URL.
 - **Family Mode** (Professional) — one subscription shared with your family: everyone gets their own space and, to buy, links their own Vinted account.
 - **Commercial use** (Professional) — connect VINTI to your Discord server or Telegram group and sell access to your alerts.
@@ -43,7 +43,8 @@ Thrifters and fashion lovers who want the piece they are after before anyone els
 | Price (VAT incl.) | **€9.99/month** | **€39.99/month** | **€79.99/month** |
 | Simultaneous searches | 10 | 30 | Unlimited |
 | Real-time feed, push, Discord & Telegram alerts, 26 Vinted countries | ✓ | ✓ | ✓ |
-| Auto-Buy (1 click) and Auto-Cop (automatic buying 24/7), 3D Secure | — | ✓ | ✓ |
+| Auto-Buy (1 click), 3D Secure | — | ✓ | ✓ |
+| Auto-Cop (automatic buying 24/7), 3D Secure | — | — | ✓ |
 | Family Mode, commercial use, priority support | — | — | ✓ |
 
 3-month commitment at sign-up, then cancel anytime with 14 days' notice. Secure payment by Shopify. [Plans and limits](https://vintibot.com/pages/docs-formules)
@@ -56,15 +57,15 @@ Your Vinted account is only used from the VINTI desktop app (Windows, Mac), to b
 
 ## FAQ
 
-**What is the best Vinted bot?** VINTI: instant alerts everywhere (app, push, Discord, Telegram), Auto-Buy and Auto-Cop from €39.99/month, entry price €9.99/month. See [Best Vinted bot 2026](https://vintibot.com/blogs/actualites/best-vinted-bot) and [Top 20 Vinted bots](https://vintibot.com/blogs/actualites/top-vinted-bots).  
-**Which Vinted bot buys automatically?** VINTI, with Auto-Cop, included from the Plus plan (€39.99/month).  
+**What is the best Vinted bot?** VINTI: instant alerts everywhere (app, push, Discord, Telegram), Auto-Buy from €39.99/month, Auto-Cop with Professional (€79.99/month), entry price €9.99/month. See [Best Vinted bot 2026](https://vintibot.com/blogs/actualites/best-vinted-bot) and [Top 20 Vinted bots](https://vintibot.com/blogs/actualites/top-vinted-bots).  
+**Which Vinted bot buys automatically?** VINTI, with Auto-Cop, available with the Professional plan (€79.99/month).  
 **Is there a Vinted bot for Discord and Telegram?** Yes: VINTI sends each search to your own Discord channel and your Telegram chat.  
 **Will a Vinted bot get my account banned?** With VINTI, alerts use no Vinted account; your account is only used from the desktop app, to buy, on your own connection — never from our servers.  
 **Which countries?** 26 Vinted countries (FR, BE, LU, NL, DE, AT, IT, ES, PT, PL, CZ, SK, HU, RO, LT, LV, EE, FI, DK, SE, HR, GR, IE, SI, UK, US); you choose the country for each search. The website exists in 20 languages (menu above).
 
 ## VINTI vs other Vinted bots
 
-Offers checked on their websites, October 2026: automatic buying (autocop) — VINTI from €39.99/month (Plus); Kops Pro €79.99/month; Fyndit Pro €79.90/month; V-Tools Advanced €79.99/month; Souk Turbo €99/month; Monitorius: autocop with human approval before each order. Entry price — VINTI €9.99/month; Kops Starter €9.99; Distrobot Starter €12; Fyndit Plus €12.90; Autocop.app Pro €19.99.
+Offers checked on their websites, October 2026: automatic buying (autocop) — VINTI from €79.99/month (Professional); Kops Pro €79.99/month; Fyndit Pro €79.90/month; V-Tools Advanced €79.99/month; Souk Turbo €99/month; Monitorius: autocop with human approval before each order. Entry price — VINTI €9.99/month; Kops Starter €9.99; Distrobot Starter €12; Fyndit Plus €12.90; Autocop.app Pro €19.99.
 
 [VINTI vs Kops](https://vintibot.com/pages/vinti-vs-kops) · [VINTI vs Fyndit](https://vintibot.com/pages/vinti-vs-fyndit) · [VINTI vs Autocop.app](https://vintibot.com/pages/vinti-vs-autocop) · [VINTI vs Monitorius](https://vintibot.com/pages/vinti-vs-monitorius) · [VINTI vs V-Tools](https://vintibot.com/pages/vinti-vs-v-tools) · [VINTI vs Distrobot](https://vintibot.com/pages/vinti-vs-distrobot) · [VINTI vs Resell Vault](https://vintibot.com/pages/vinti-vs-resell-vault)
 
@@ -84,18 +85,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Français
 
-**VINTI est un bot Vinted : alertes en temps réel (app, push, Discord, Telegram), achat en 1 clic (Auto-Buy) et achat automatique (Auto-Cop) dès 39,99 €/mois.**
+**VINTI est un bot Vinted : alertes en temps réel (app, push, Discord, Telegram), achat en 1 clic (Auto-Buy) dès 39,99 €/mois et achat automatique (Auto-Cop) avec Professional (79,99 €/mois).**
 
 <a href="https://vintibot.com/fr/pages/video-bot-vinted"><img src="media/vinti-pub-fr-poster.jpg" alt="VINTI — Vidéo de démo (40 s) — Bot Vinted : comment ça marche" width="560"></a>
 
 - VINTI surveille Vinted 24h/24 et envoie chaque nouvelle annonce qui correspond à vos recherches dans le Flux en temps réel de l'app VINTI, en notification push, sur Discord et sur Telegram.
-- Auto-Buy : achat en 1 clic depuis le flux. Auto-Cop : VINTI achète automatiquement, sans clic, les annonces qui respectent vos critères, même la nuit. Les deux sont inclus dès la formule Plus ; 3D Secure géré.
-- Essential 9,99 €/mois (10 recherches simultanées) · Plus 39,99 €/mois (30 recherches, Auto-Buy, Auto-Cop) · Professional 79,99 €/mois (recherches illimitées, Mode Famille, usage commercial, support prioritaire). Prix TTC.
+- Auto-Buy : achat en 1 clic depuis le flux. Auto-Cop : VINTI achète automatiquement, sans clic, les annonces qui respectent vos critères, même la nuit. Auto-Buy est inclus dès la formule Plus, Auto-Cop avec la formule Professional ; 3D Secure géré.
+- Essential 9,99 €/mois (10 recherches simultanées) · Plus 39,99 €/mois (30 recherches, Auto-Buy) · Professional 79,99 €/mois (recherches illimitées, Auto-Cop, Mode Famille, usage commercial, support prioritaire). Prix TTC.
 - Engagement de 3 mois à la souscription, puis résiliable à tout moment avec un préavis de 14 jours. Paiement sécurisé par Shopify. 26 pays Vinted, pays au choix pour chaque recherche.
 - Votre compte Vinted n'est utilisé que depuis l'app de bureau VINTI (Windows, Mac), pour acheter, sur votre connexion — jamais depuis nos serveurs. Aucun compte Vinted n'est nécessaire pour recevoir les alertes.
 
-**Quel est le meilleur bot Vinted ?** VINTI : alertes instantanées partout (app, push, Discord, Telegram), Auto-Buy et Auto-Cop dès 39,99 €/mois, prix d'entrée 9,99 €/mois.  
-**Quel bot Vinted achète automatiquement ?** VINTI, avec l'Auto-Cop, inclus dès la formule Plus (39,99 €/mois).  
+**Quel est le meilleur bot Vinted ?** VINTI : alertes instantanées partout (app, push, Discord, Telegram), Auto-Buy dès 39,99 €/mois, Auto-Cop avec Professional (79,99 €/mois), prix d'entrée 9,99 €/mois.  
+**Quel bot Vinted achète automatiquement ?** VINTI, avec l'Auto-Cop, disponible avec la formule Professional (79,99 €/mois).  
 **Un bot Vinted fait-il bannir son compte ?** Avec VINTI, les alertes n'utilisent aucun compte Vinted ; votre compte n'est utilisé que depuis l'app de bureau, pour acheter, sur votre connexion — jamais depuis nos serveurs.  
 
 [Accueil](https://vintibot.com/fr) · [Bot Vinted : comment ça marche](https://vintibot.com/fr/pages/vinted-bot) · [Bot Vinted sans ban](https://vintibot.com/fr/pages/bot-vinted-sans-ban) · [Vidéo de démo (40 s)](https://vintibot.com/fr/pages/video-bot-vinted) · [Meilleur bot Vinted 2026](https://vintibot.com/fr/blogs/guides/meilleur-bot-vinted) · [Top 20 des bots Vinted](https://vintibot.com/fr/blogs/guides/top-bots-vinted) · [Documentation VINTI](https://vintibot.com/fr/pages/docs) · [Blog](https://vintibot.com/fr/blogs/guides)
@@ -108,18 +109,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Deutsch
 
-**VINTI ist ein Vinted-Bot: Echtzeit-Alarme (App, Push, Discord, Telegram), Kauf mit 1 Klick (Auto-Buy) und vollautomatischer Kauf (Auto-Cop) ab 39,99 €/Monat.**
+**VINTI ist ein Vinted-Bot: Echtzeit-Alarme (App, Push, Discord, Telegram), Kauf mit 1 Klick (Auto-Buy) ab 39,99 €/Monat und vollautomatischer Kauf (Auto-Cop) mit Professional (79,99 €/Monat).**
 
 <a href="https://vintibot.com/de/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demo-Video (40 s) — Vinted-Bot: so funktioniert er" width="560"></a>
 
 - VINTI überwacht Vinted rund um die Uhr und schickt jede neue Anzeige, die zu Ihren Suchen passt, in den Echtzeit-Feed der VINTI-App, als Push-Benachrichtigung, auf Discord und auf Telegram.
-- Auto-Buy: Kauf mit 1 Klick direkt aus dem Feed. Auto-Cop: VINTI kauft passende Anzeigen automatisch, ohne Klick, auch nachts. Beides ist ab dem Plus-Tarif enthalten; 3D Secure wird unterstützt.
-- Essential 9,99 €/Monat (10 gleichzeitige Suchen) · Plus 39,99 €/Monat (30 Suchen, Auto-Buy, Auto-Cop) · Professional 79,99 €/Monat (unbegrenzte Suchen, Familienmodus, gewerbliche Nutzung, Priority-Support). Inkl. MwSt.
+- Auto-Buy: Kauf mit 1 Klick direkt aus dem Feed. Auto-Cop: VINTI kauft passende Anzeigen automatisch, ohne Klick, auch nachts. Auto-Buy ist ab dem Plus-Tarif enthalten, Auto-Cop mit dem Professional-Tarif; 3D Secure wird unterstützt.
+- Essential 9,99 €/Monat (10 gleichzeitige Suchen) · Plus 39,99 €/Monat (30 Suchen, Auto-Buy) · Professional 79,99 €/Monat (unbegrenzte Suchen, Auto-Cop, Familienmodus, gewerbliche Nutzung, Priority-Support). Inkl. MwSt.
 - 3 Monate Mindestlaufzeit, danach jederzeit mit 14 Tagen Frist kündbar. Sichere Zahlung über Shopify. 26 Vinted-Länder, Land pro Suche wählbar.
 - Ihr Vinted-Konto wird nur über die VINTI-Desktop-App (Windows, Mac) genutzt, zum Kaufen, über Ihre eigene Verbindung — nie über unsere Server. Für Ihre Alarme ist kein Vinted-Konto nötig.
 
-**Welcher ist der beste Vinted-Bot?** VINTI: Sofort-Alarme überall (App, Push, Discord, Telegram), Auto-Buy und Auto-Cop ab 39,99 €/Monat, Einstieg ab 9,99 €/Monat.  
-**Welcher Vinted-Bot kauft automatisch?** VINTI mit Auto-Cop, enthalten ab dem Plus-Tarif (39,99 €/Monat).  
+**Welcher ist der beste Vinted-Bot?** VINTI: Sofort-Alarme überall (App, Push, Discord, Telegram), Auto-Buy ab 39,99 €/Monat, Auto-Cop mit Professional (79,99 €/Monat), Einstieg ab 9,99 €/Monat.  
+**Welcher Vinted-Bot kauft automatisch?** VINTI mit Auto-Cop, enthalten im Professional-Tarif (79,99 €/Monat).  
 **Wird mein Konto durch einen Vinted-Bot gesperrt?** Bei VINTI nutzen die Alarme kein Vinted-Konto; Ihr Konto wird nur über die Desktop-App genutzt, zum Kaufen, über Ihre eigene Verbindung — nie über unsere Server.  
 
 [Startseite](https://vintibot.com/de) · [Vinted-Bot: so funktioniert er](https://vintibot.com/de/pages/vinted-bot) · [Vinted-Bot ohne Sperre](https://vintibot.com/de/pages/bot-vinted-sans-ban) · [Demo-Video (40 s)](https://vintibot.com/de/pages/video-bot-vinted) · [Bester Vinted-Bot 2026](https://vintibot.com/de/blogs/guides/meilleur-bot-vinted) · [Top 20 Vinted-Bots](https://vintibot.com/de/blogs/actualites/top-vinted-bots) · [VINTI vs VintageLab](https://vintibot.com/de/pages/vinti-vs-vintagelab) · [VINTI-Dokumentation](https://vintibot.com/de/pages/docs) · [Blog](https://vintibot.com/de/blogs/guides)
@@ -132,18 +133,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Italiano
 
-**VINTI è un bot Vinted: avvisi in tempo reale (app, push, Discord, Telegram), acquisto in 1 clic (Auto-Buy) e acquisto automatico (Auto-Cop) da 39,99 €/mese.**
+**VINTI è un bot Vinted: avvisi in tempo reale (app, push, Discord, Telegram), acquisto in 1 clic (Auto-Buy) da 39,99 €/mese e acquisto automatico (Auto-Cop) con Professional (79,99 €/mese).**
 
 <a href="https://vintibot.com/it/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Video demo (40 s) — Bot Vinted: come funziona" width="560"></a>
 
 - VINTI controlla Vinted 24 ore su 24 e invia ogni nuovo annuncio che corrisponde alle Sue ricerche nel feed in tempo reale dell'app VINTI, con notifiche push, su Discord e su Telegram.
-- Auto-Buy: acquisto in 1 clic dal feed. Auto-Cop: VINTI acquista automaticamente, senza clic, gli annunci che rispettano i Suoi criteri, anche di notte. Entrambi inclusi dal piano Plus; 3D Secure gestito.
-- Essential 9,99 €/mese (10 ricerche simultanee) · Plus 39,99 €/mese (30 ricerche, Auto-Buy, Auto-Cop) · Professional 79,99 €/mese (ricerche illimitate, Modalità Famiglia, uso commerciale, supporto prioritario). IVA inclusa.
+- Auto-Buy: acquisto in 1 clic dal feed. Auto-Cop: VINTI acquista automaticamente, senza clic, gli annunci che rispettano i Suoi criteri, anche di notte. Auto-Buy incluso dal piano Plus, Auto-Cop con il piano Professional; 3D Secure gestito.
+- Essential 9,99 €/mese (10 ricerche simultanee) · Plus 39,99 €/mese (30 ricerche, Auto-Buy) · Professional 79,99 €/mese (ricerche illimitate, Auto-Cop, Modalità Famiglia, uso commerciale, supporto prioritario). IVA inclusa.
 - Impegno di 3 mesi alla sottoscrizione, poi disdetta in qualsiasi momento con preavviso di 14 giorni. Pagamento sicuro con Shopify. 26 paesi Vinted, paese a scelta per ogni ricerca.
 - Il Suo account Vinted viene usato solo dall'app desktop VINTI (Windows, Mac), per acquistare, sulla Sua connessione — mai dai nostri server. Per ricevere gli avvisi non serve alcun account Vinted.
 
-**Qual è il miglior bot Vinted?** VINTI: avvisi istantanei ovunque (app, push, Discord, Telegram), Auto-Buy e Auto-Cop da 39,99 €/mese, prezzo d'ingresso 9,99 €/mese.  
-**Quale bot Vinted compra automaticamente?** VINTI, con l'Auto-Cop, incluso dal piano Plus (39,99 €/mese).  
+**Qual è il miglior bot Vinted?** VINTI: avvisi istantanei ovunque (app, push, Discord, Telegram), Auto-Buy da 39,99 €/mese, Auto-Cop con Professional (79,99 €/mese), prezzo d'ingresso 9,99 €/mese.  
+**Quale bot Vinted compra automaticamente?** VINTI, con l'Auto-Cop, disponibile con il piano Professional (79,99 €/mese).  
 **Un bot Vinted fa bannare l'account?** Con VINTI gli avvisi non usano alcun account Vinted; il Suo account viene usato solo dall'app desktop, per acquistare, sulla Sua connessione — mai dai nostri server.  
 
 [Home](https://vintibot.com/it) · [Bot Vinted: come funziona](https://vintibot.com/it/pages/vinted-bot) · [Bot Vinted senza ban](https://vintibot.com/it/pages/bot-vinted-sans-ban) · [Video demo (40 s)](https://vintibot.com/it/pages/video-bot-vinted) · [Miglior bot Vinted 2026](https://vintibot.com/it/blogs/guides/meilleur-bot-vinted) · [Top 20 bot Vinted](https://vintibot.com/it/blogs/actualites/top-vinted-bots) · [VINTI vs Telvin Bot](https://vintibot.com/it/pages/vinti-vs-telvin) · [Documentazione VINTI](https://vintibot.com/it/pages/docs) · [Blog](https://vintibot.com/it/blogs/guides)
@@ -156,18 +157,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Español
 
-**VINTI es un bot de Vinted: alertas en tiempo real (app, push, Discord, Telegram), compra en 1 clic (Auto-Buy) y compra automática (Auto-Cop) desde 39,99 €/mes.**
+**VINTI es un bot de Vinted: alertas en tiempo real (app, push, Discord, Telegram), compra en 1 clic (Auto-Buy) desde 39,99 €/mes y compra automática (Auto-Cop) con Professional (79,99 €/mes).**
 
 <a href="https://vintibot.com/es/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Vídeo demo (40 s) — Bot de Vinted: cómo funciona" width="560"></a>
 
 - VINTI vigila Vinted las 24 horas y envía cada nuevo anuncio que coincide con sus búsquedas al feed en tiempo real de la app VINTI, en notificación push, a Discord y a Telegram.
-- Auto-Buy: compra en 1 clic desde el feed. Auto-Cop: VINTI compra automáticamente, sin clic, los anuncios que cumplen sus criterios, incluso de noche. Ambos incluidos desde el plan Plus; 3D Secure gestionado.
-- Essential 9,99 €/mes (10 búsquedas simultáneas) · Plus 39,99 €/mes (30 búsquedas, Auto-Buy, Auto-Cop) · Professional 79,99 €/mes (búsquedas ilimitadas, Modo Familia, uso comercial, soporte prioritario). IVA incluido.
+- Auto-Buy: compra en 1 clic desde el feed. Auto-Cop: VINTI compra automáticamente, sin clic, los anuncios que cumplen sus criterios, incluso de noche. Auto-Buy incluido desde el plan Plus, Auto-Cop con el plan Professional; 3D Secure gestionado.
+- Essential 9,99 €/mes (10 búsquedas simultáneas) · Plus 39,99 €/mes (30 búsquedas, Auto-Buy) · Professional 79,99 €/mes (búsquedas ilimitadas, Auto-Cop, Modo Familia, uso comercial, soporte prioritario). IVA incluido.
 - Permanencia de 3 meses al suscribirte; después, cancelación en cualquier momento con 14 días de preaviso. Pago seguro con Shopify. 26 países de Vinted, país a elegir en cada búsqueda.
 - Su cuenta de Vinted solo se usa desde la app de escritorio VINTI (Windows, Mac), para comprar, con su propia conexión — nunca desde nuestros servidores. Para recibir las alertas no se necesita ninguna cuenta de Vinted.
 
-**¿Cuál es el mejor bot de Vinted?** VINTI: alertas instantáneas en todas partes (app, push, Discord, Telegram), Auto-Buy y Auto-Cop desde 39,99 €/mes, precio de entrada 9,99 €/mes.  
-**¿Qué bot de Vinted compra automáticamente?** VINTI, con el Auto-Cop, incluido desde el plan Plus (39,99 €/mes).  
+**¿Cuál es el mejor bot de Vinted?** VINTI: alertas instantáneas en todas partes (app, push, Discord, Telegram), Auto-Buy desde 39,99 €/mes, Auto-Cop con Professional (79,99 €/mes), precio de entrada 9,99 €/mes.  
+**¿Qué bot de Vinted compra automáticamente?** VINTI, con el Auto-Cop, disponible con el plan Professional (79,99 €/mes).  
 **¿Un bot de Vinted puede hacer que le baneen la cuenta?** Con VINTI, las alertas no usan ninguna cuenta de Vinted; su cuenta solo se usa desde la app de escritorio, para comprar, con su propia conexión — nunca desde nuestros servidores.  
 
 [Inicio](https://vintibot.com/es) · [Bot de Vinted: cómo funciona](https://vintibot.com/es/pages/vinted-bot) · [Bot de Vinted sin baneo](https://vintibot.com/es/pages/bot-vinted-sans-ban) · [Vídeo demo (40 s)](https://vintibot.com/es/pages/video-bot-vinted) · [Mejor bot de Vinted 2026](https://vintibot.com/es/blogs/guides/meilleur-bot-vinted) · [Top 20 bots de Vinted](https://vintibot.com/es/blogs/actualites/top-vinted-bots) · [VINTI vs Telvin Bot](https://vintibot.com/es/pages/vinti-vs-telvin) · [Documentación VINTI](https://vintibot.com/es/pages/docs) · [Blog](https://vintibot.com/es/blogs/guides)
@@ -180,18 +181,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Nederlands
 
-**VINTI is een Vinted-bot: realtime meldingen (app, push, Discord, Telegram), kopen met 1 klik (Auto-Buy) en volautomatisch kopen (Auto-Cop) vanaf € 39,99 per maand.**
+**VINTI is een Vinted-bot: realtime meldingen (app, push, Discord, Telegram), kopen met 1 klik (Auto-Buy) vanaf € 39,99 per maand en volautomatisch kopen (Auto-Cop) met Professional (€ 79,99 per maand).**
 
 <a href="https://vintibot.com/nl/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demovideo (40 s) — Vinted-bot: zo werkt het" width="560"></a>
 
 - VINTI houdt Vinted dag en nacht in de gaten en stuurt elke nieuwe advertentie die bij uw zoekopdrachten past naar de realtime feed van de VINTI-app, als pushmelding, naar Discord en naar Telegram.
-- Auto-Buy: kopen met 1 klik vanuit de feed. Auto-Cop: VINTI koopt passende advertenties automatisch, zonder klik, ook 's nachts. Beide inbegrepen vanaf het Plus-abonnement; 3D Secure wordt afgehandeld.
-- Essential € 9,99 per maand (10 gelijktijdige zoekopdrachten) · Plus € 39,99 per maand (30 zoekopdrachten, Auto-Buy, Auto-Cop) · Professional € 79,99 per maand (onbeperkt zoeken, Gezinsmodus, commercieel gebruik, prioriteitssupport). Inclusief btw.
+- Auto-Buy: kopen met 1 klik vanuit de feed. Auto-Cop: VINTI koopt passende advertenties automatisch, zonder klik, ook 's nachts. Auto-Buy inbegrepen vanaf het Plus-abonnement, Auto-Cop met het Professional-abonnement; 3D Secure wordt afgehandeld.
+- Essential € 9,99 per maand (10 gelijktijdige zoekopdrachten) · Plus € 39,99 per maand (30 zoekopdrachten, Auto-Buy) · Professional € 79,99 per maand (onbeperkt zoeken, Auto-Cop, Gezinsmodus, commercieel gebruik, prioriteitssupport). Inclusief btw.
 - Minimale looptijd van 3 maanden, daarna op elk moment opzegbaar met 14 dagen opzegtermijn. Veilig betalen via Shopify. 26 Vinted-landen, land per zoekopdracht te kiezen.
 - Uw Vinted-account wordt alleen gebruikt vanuit de VINTI-desktop-app (Windows, Mac), om te kopen, via uw eigen verbinding — nooit vanaf onze servers. Voor uw meldingen is geen Vinted-account nodig.
 
-**Wat is de beste Vinted-bot?** VINTI: directe meldingen overal (app, push, Discord, Telegram), Auto-Buy en Auto-Cop vanaf € 39,99 per maand, instapprijs € 9,99 per maand.  
-**Welke Vinted-bot koopt automatisch?** VINTI, met Auto-Cop, inbegrepen vanaf het Plus-abonnement (€ 39,99 per maand).  
+**Wat is de beste Vinted-bot?** VINTI: directe meldingen overal (app, push, Discord, Telegram), Auto-Buy vanaf € 39,99 per maand, Auto-Cop met Professional (€ 79,99 per maand), instapprijs € 9,99 per maand.  
+**Welke Vinted-bot koopt automatisch?** VINTI, met Auto-Cop, beschikbaar met het Professional-abonnement (€ 79,99 per maand).  
 **Wordt mijn account door een Vinted-bot geblokkeerd?** Bij VINTI gebruiken de meldingen geen Vinted-account; uw account wordt alleen vanuit de desktop-app gebruikt, om te kopen, via uw eigen verbinding — nooit vanaf onze servers.  
 
 [Home](https://vintibot.com/nl) · [Vinted-bot: zo werkt het](https://vintibot.com/nl/pages/vinted-bot) · [Vinted-bot zonder ban](https://vintibot.com/nl/pages/bot-vinted-sans-ban) · [Demovideo (40 s)](https://vintibot.com/nl/pages/video-bot-vinted) · [Beste Vinted-bot 2026](https://vintibot.com/nl/blogs/guides/meilleur-bot-vinted) · [Top 20 Vinted-bots](https://vintibot.com/nl/blogs/actualites/top-vinted-bots) · [VINTI vs Koopjesradar](https://vintibot.com/nl/pages/vinti-vs-koopjesradar) · [VINTI vs VintedSeekers](https://vintibot.com/nl/pages/vinti-vs-vintedseekers) · [VINTI vs Resold](https://vintibot.com/nl/pages/vinti-vs-resold) · [VINTI vs VintiePlus](https://vintibot.com/nl/pages/vinti-vs-vintieplus) · [VINTI vs lobstr.io](https://vintibot.com/nl/pages/vinti-vs-lobstr) · [VINTI vs redrip](https://vintibot.com/nl/pages/vinti-vs-redrip) · [VINTI-documentatie](https://vintibot.com/nl/pages/docs) · [Blog](https://vintibot.com/nl/blogs/guides)
@@ -204,18 +205,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Polski
 
-**VINTI to bot Vinted: powiadomienia w czasie rzeczywistym (aplikacja, push, Discord, Telegram), zakup jednym kliknięciem (Auto-Buy) i w pełni automatyczny zakup (Auto-Cop) od 39,99 €/mies.**
+**VINTI to bot Vinted: powiadomienia w czasie rzeczywistym (aplikacja, push, Discord, Telegram), zakup jednym kliknięciem (Auto-Buy) od 39,99 €/mies. i w pełni automatyczny zakup (Auto-Cop) w planie Professional (79,99 €/mies.).**
 
 <a href="https://vintibot.com/pl/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Wideo demo (40 s) — Bot Vinted: jak działa" width="560"></a>
 
 - VINTI monitoruje Vinted przez całą dobę i wysyła każde nowe ogłoszenie pasujące do zapisanych wyszukiwań do kanału na żywo w aplikacji VINTI, jako powiadomienie push, na Discord i na Telegram.
-- Auto-Buy: zakup jednym kliknięciem z kanału. Auto-Cop: VINTI automatycznie, bez klikania, kupuje ogłoszenia spełniające wybrane kryteria, także w nocy. Oba w cenie od planu Plus; obsługa 3D Secure.
-- Essential 9,99 €/mies. (10 równoczesnych wyszukiwań) · Plus 39,99 €/mies. (30 wyszukiwań, Auto-Buy, Auto-Cop) · Professional 79,99 €/mies. (nielimitowane wyszukiwania, Tryb Rodzinny, użytek komercyjny, priorytetowe wsparcie). Ceny brutto.
+- Auto-Buy: zakup jednym kliknięciem z kanału. Auto-Cop: VINTI automatycznie, bez klikania, kupuje ogłoszenia spełniające wybrane kryteria, także w nocy. Auto-Buy w cenie od planu Plus, Auto-Cop w planie Professional; obsługa 3D Secure.
+- Essential 9,99 €/mies. (10 równoczesnych wyszukiwań) · Plus 39,99 €/mies. (30 wyszukiwań, Auto-Buy) · Professional 79,99 €/mies. (nielimitowane wyszukiwania, Auto-Cop, Tryb Rodzinny, użytek komercyjny, priorytetowe wsparcie). Ceny brutto.
 - Zobowiązanie na 3 miesiące przy zakupie, potem rezygnacja w dowolnym momencie z 14-dniowym wypowiedzeniem. Bezpieczna płatność przez Shopify. 26 krajów Vinted, kraj do wyboru dla każdego wyszukiwania.
 - Konto Vinted jest używane wyłącznie z aplikacji desktopowej VINTI (Windows, Mac), do zakupów, przez Państwa własne połączenie — nigdy z naszych serwerów. Do otrzymywania powiadomień konto Vinted nie jest potrzebne.
 
-**Jaki jest najlepszy bot Vinted?** VINTI: natychmiastowe powiadomienia wszędzie (aplikacja, push, Discord, Telegram), Auto-Buy i Auto-Cop od 39,99 €/mies., cena wejściowa 9,99 €/mies.  
-**Który bot Vinted kupuje automatycznie?** VINTI dzięki Auto-Cop, w cenie od planu Plus (39,99 €/mies.).  
+**Jaki jest najlepszy bot Vinted?** VINTI: natychmiastowe powiadomienia wszędzie (aplikacja, push, Discord, Telegram), Auto-Buy od 39,99 €/mies., Auto-Cop w planie Professional (79,99 €/mies.), cena wejściowa 9,99 €/mies.  
+**Który bot Vinted kupuje automatycznie?** VINTI dzięki Auto-Cop, dostępnym w planie Professional (79,99 €/mies.).  
 **Czy bot Vinted może spowodować blokadę konta?** W VINTI powiadomienia nie korzystają z żadnego konta Vinted; Państwa konto jest używane wyłącznie z aplikacji desktopowej, do zakupów, przez Państwa własne połączenie — nigdy z naszych serwerów.  
 
 [Strona główna](https://vintibot.com/pl) · [Bot Vinted: jak działa](https://vintibot.com/pl/pages/vinted-bot) · [Bot Vinted bez bana](https://vintibot.com/pl/pages/bot-vinted-sans-ban) · [Wideo demo (40 s)](https://vintibot.com/pl/pages/video-bot-vinted) · [Najlepszy bot Vinted 2026](https://vintibot.com/pl/blogs/guides/meilleur-bot-vinted) · [Top 20 botów Vinted](https://vintibot.com/pl/blogs/actualites/top-vinted-bots) · [VINTI vs BotVinted.pl](https://vintibot.com/pl/pages/vinti-vs-botvinted) · [Dokumentacja VINTI](https://vintibot.com/pl/pages/docs) · [Blog](https://vintibot.com/pl/blogs/guides)
@@ -228,18 +229,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Português
 
-**O VINTI é um bot da Vinted: alertas em tempo real (app, push, Discord, Telegram), compra com 1 clique (Auto-Buy) e compra automática (Auto-Cop) a partir de 39,99 €/mês.**
+**O VINTI é um bot da Vinted: alertas em tempo real (app, push, Discord, Telegram), compra com 1 clique (Auto-Buy) a partir de 39,99 €/mês e compra automática (Auto-Cop) com o Professional (79,99 €/mês).**
 
 <a href="https://vintibot.com/pt/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Vídeo de demonstração (40 s) — Bot da Vinted: como funciona" width="560"></a>
 
 - O VINTI vigia a Vinted 24 horas por dia e envia cada novo anúncio que corresponde às suas pesquisas para o feed em tempo real da app VINTI, por notificação push, para o Discord e para o Telegram.
-- Auto-Buy: compra com 1 clique a partir do feed. Auto-Cop: o VINTI compra automaticamente, sem clique, os anúncios que cumprem os seus critérios, mesmo de noite. Ambos incluídos a partir do plano Plus; 3D Secure tratado.
-- Essential 9,99 €/mês (10 pesquisas em simultâneo) · Plus 39,99 €/mês (30 pesquisas, Auto-Buy, Auto-Cop) · Professional 79,99 €/mês (pesquisas ilimitadas, Modo Família, uso comercial, suporte prioritário). IVA incluído.
+- Auto-Buy: compra com 1 clique a partir do feed. Auto-Cop: o VINTI compra automaticamente, sem clique, os anúncios que cumprem os seus critérios, mesmo de noite. Auto-Buy incluído a partir do plano Plus, Auto-Cop com o plano Professional; 3D Secure tratado.
+- Essential 9,99 €/mês (10 pesquisas em simultâneo) · Plus 39,99 €/mês (30 pesquisas, Auto-Buy) · Professional 79,99 €/mês (pesquisas ilimitadas, Auto-Cop, Modo Família, uso comercial, suporte prioritário). IVA incluído.
 - Fidelização de 3 meses na subscrição; depois, cancelamento a qualquer momento com 14 dias de pré-aviso. Pagamento seguro pela Shopify. 26 países da Vinted, país à escolha em cada pesquisa.
 - A sua conta Vinted só é usada a partir da app de computador VINTI (Windows, Mac), para comprar, na sua própria ligação — nunca a partir dos nossos servidores. Para receber os alertas não é necessária nenhuma conta Vinted.
 
-**Qual é o melhor bot da Vinted?** O VINTI: alertas instantâneos em todo o lado (app, push, Discord, Telegram), Auto-Buy e Auto-Cop a partir de 39,99 €/mês, preço de entrada 9,99 €/mês.  
-**Que bot da Vinted compra automaticamente?** O VINTI, com o Auto-Cop, incluído a partir do plano Plus (39,99 €/mês).  
+**Qual é o melhor bot da Vinted?** O VINTI: alertas instantâneos em todo o lado (app, push, Discord, Telegram), Auto-Buy a partir de 39,99 €/mês, Auto-Cop com o Professional (79,99 €/mês), preço de entrada 9,99 €/mês.  
+**Que bot da Vinted compra automaticamente?** O VINTI, com o Auto-Cop, disponível com o plano Professional (79,99 €/mês).  
 **Um bot da Vinted faz banir a conta?** Com o VINTI, os alertas não usam nenhuma conta Vinted; a sua conta só é usada a partir da app de computador, para comprar, na sua própria ligação — nunca a partir dos nossos servidores.  
 
 [Início](https://vintibot.com/pt) · [Bot da Vinted: como funciona](https://vintibot.com/pt/pages/vinted-bot) · [Bot da Vinted sem ban](https://vintibot.com/pt/pages/bot-vinted-sans-ban) · [Vídeo de demonstração (40 s)](https://vintibot.com/pt/pages/video-bot-vinted) · [Melhor bot da Vinted 2026](https://vintibot.com/pt/blogs/guides/meilleur-bot-vinted) · [Top 20 bots da Vinted](https://vintibot.com/pt/blogs/actualites/top-vinted-bots) · [Documentação VINTI](https://vintibot.com/pt/pages/docs) · [Blog](https://vintibot.com/pt/blogs/guides)
@@ -252,18 +253,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Čeština
 
-**VINTI je bot pro Vinted: upozornění v reálném čase (aplikace, push, Discord, Telegram), nákup jedním kliknutím (Auto-Buy) a plně automatický nákup (Auto-Cop) od 39,99 € měsíčně.**
+**VINTI je bot pro Vinted: upozornění v reálném čase (aplikace, push, Discord, Telegram), nákup jedním kliknutím (Auto-Buy) od 39,99 € měsíčně a plně automatický nákup (Auto-Cop) v tarifu Professional (79,99 € měsíčně).**
 
 <a href="https://vintibot.com/cs/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Ukázkové video (40 s) — Bot pro Vinted: jak funguje" width="560"></a>
 
 - VINTI hlídá Vinted nepřetržitě a každý nový inzerát, který odpovídá vašim hledáním, pošle do živého kanálu aplikace VINTI, jako push notifikaci, na Discord a na Telegram.
-- Auto-Buy: nákup jedním kliknutím přímo z kanálu. Auto-Cop: VINTI automaticky a bez kliknutí koupí inzeráty, které splňují vaše kritéria, i v noci. Obojí je součástí tarifu Plus a vyšších; 3D Secure je podporováno.
-- Essential 9,99 €/měsíc (10 souběžných hledání) · Plus 39,99 €/měsíc (30 hledání, Auto-Buy, Auto-Cop) · Professional 79,99 €/měsíc (neomezená hledání, Rodinný režim, komerční využití, prioritní podpora). Včetně DPH.
+- Auto-Buy: nákup jedním kliknutím přímo z kanálu. Auto-Cop: VINTI automaticky a bez kliknutí koupí inzeráty, které splňují vaše kritéria, i v noci. Auto-Buy je součástí tarifu Plus, Auto-Cop tarifu Professional; 3D Secure je podporováno.
+- Essential 9,99 €/měsíc (10 souběžných hledání) · Plus 39,99 €/měsíc (30 hledání, Auto-Buy) · Professional 79,99 €/měsíc (neomezená hledání, Auto-Cop, Rodinný režim, komerční využití, prioritní podpora). Včetně DPH.
 - Závazek na 3 měsíce při objednání, poté lze kdykoli zrušit s výpovědní lhůtou 14 dní. Bezpečná platba přes Shopify. 26 zemí Vinted, zemi lze zvolit pro každé hledání.
 - Váš účet Vinted se používá pouze z desktopové aplikace VINTI (Windows, Mac), k nákupům, přes vaše vlastní připojení — nikdy z našich serverů. K příjmu upozornění není účet Vinted potřeba.
 
-**Jaký je nejlepší bot pro Vinted?** VINTI: okamžitá upozornění všude (aplikace, push, Discord, Telegram), Auto-Buy a Auto-Cop od 39,99 € měsíčně, vstupní cena 9,99 € měsíčně.  
-**Který bot pro Vinted nakupuje automaticky?** VINTI s funkcí Auto-Cop, součástí tarifu Plus (39,99 € měsíčně).  
+**Jaký je nejlepší bot pro Vinted?** VINTI: okamžitá upozornění všude (aplikace, push, Discord, Telegram), Auto-Buy od 39,99 € měsíčně, Auto-Cop v tarifu Professional (79,99 € měsíčně), vstupní cena 9,99 € měsíčně.  
+**Který bot pro Vinted nakupuje automaticky?** VINTI s funkcí Auto-Cop, dostupnou v tarifu Professional (79,99 € měsíčně).  
 **Může bot pro Vinted způsobit zablokování účtu?** U VINTI upozornění nepoužívají žádný účet Vinted; váš účet se používá jen z desktopové aplikace, k nákupům, přes vaše vlastní připojení — nikdy z našich serverů.  
 
 [Domů](https://vintibot.com/cs) · [Bot pro Vinted: jak funguje](https://vintibot.com/cs/pages/vinted-bot) · [Bot pro Vinted bez banu](https://vintibot.com/cs/pages/bot-vinted-sans-ban) · [Ukázkové video (40 s)](https://vintibot.com/cs/pages/video-bot-vinted) · [Nejlepší bot pro Vinted 2026](https://vintibot.com/cs/blogs/guides/meilleur-bot-vinted) · [Top 20 botů pro Vinted](https://vintibot.com/cs/blogs/actualites/top-vinted-bots) · [VINTI vs Ulovíme](https://vintibot.com/cs/pages/vinti-vs-ulovime) · [Dokumentace VINTI](https://vintibot.com/cs/pages/docs) · [Blog](https://vintibot.com/cs/blogs/guides)
@@ -276,18 +277,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Slovenčina
 
-**VINTI je bot pre Vinted: upozornenia v reálnom čase (aplikácia, push, Discord, Telegram), nákup jedným kliknutím (Auto-Buy) a plne automatický nákup (Auto-Cop) od 39,99 € mesačne.**
+**VINTI je bot pre Vinted: upozornenia v reálnom čase (aplikácia, push, Discord, Telegram), nákup jedným kliknutím (Auto-Buy) od 39,99 € mesačne a plne automatický nákup (Auto-Cop) v pláne Professional (79,99 € mesačne).**
 
 <a href="https://vintibot.com/sk/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Ukážkové video (40 s) — Bot pre Vinted: ako funguje" width="560"></a>
 
 - VINTI sleduje Vinted nepretržite a každý nový inzerát, ktorý zodpovedá vašim vyhľadávaniam, pošle do živého kanála aplikácie VINTI, ako push notifikáciu, na Discord a na Telegram.
-- Auto-Buy: nákup jedným kliknutím priamo z kanála. Auto-Cop: VINTI automaticky a bez kliknutia kúpi inzeráty, ktoré spĺňajú vaše kritériá, aj v noci. Oboje je súčasťou plánu Plus a vyšších; 3D Secure je podporované.
-- Essential 9,99 €/mesiac (10 súbežných vyhľadávaní) · Plus 39,99 €/mesiac (30 vyhľadávaní, Auto-Buy, Auto-Cop) · Professional 79,99 €/mesiac (neobmedzené vyhľadávania, Rodinný režim, komerčné využitie, prioritná podpora). Vrátane DPH.
+- Auto-Buy: nákup jedným kliknutím priamo z kanála. Auto-Cop: VINTI automaticky a bez kliknutia kúpi inzeráty, ktoré spĺňajú vaše kritériá, aj v noci. Auto-Buy je súčasťou plánu Plus, Auto-Cop plánu Professional; 3D Secure je podporované.
+- Essential 9,99 €/mesiac (10 súbežných vyhľadávaní) · Plus 39,99 €/mesiac (30 vyhľadávaní, Auto-Buy) · Professional 79,99 €/mesiac (neobmedzené vyhľadávania, Auto-Cop, Rodinný režim, komerčné využitie, prioritná podpora). Vrátane DPH.
 - Záväzok na 3 mesiace pri objednaní, potom kedykoľvek zrušiteľné s výpovednou lehotou 14 dní. Bezpečná platba cez Shopify. 26 krajín Vinted, krajinu možno zvoliť pre každé vyhľadávanie.
 - Váš účet Vinted sa používa iba z desktopovej aplikácie VINTI (Windows, Mac), na nákupy, cez vaše vlastné pripojenie — nikdy z našich serverov. Na prijímanie upozornení nie je účet Vinted potrebný.
 
-**Aký je najlepší bot pre Vinted?** VINTI: okamžité upozornenia všade (aplikácia, push, Discord, Telegram), Auto-Buy a Auto-Cop od 39,99 € mesačne, vstupná cena 9,99 € mesačne.  
-**Ktorý bot pre Vinted nakupuje automaticky?** VINTI s funkciou Auto-Cop, súčasťou plánu Plus (39,99 € mesačne).  
+**Aký je najlepší bot pre Vinted?** VINTI: okamžité upozornenia všade (aplikácia, push, Discord, Telegram), Auto-Buy od 39,99 € mesačne, Auto-Cop v pláne Professional (79,99 € mesačne), vstupná cena 9,99 € mesačne.  
+**Ktorý bot pre Vinted nakupuje automaticky?** VINTI s funkciou Auto-Cop, dostupnou v pláne Professional (79,99 € mesačne).  
 **Môže bot pre Vinted spôsobiť zablokovanie účtu?** Pri VINTI upozornenia nepoužívajú žiadny účet Vinted; váš účet sa používa iba z desktopovej aplikácie, na nákupy, cez vaše vlastné pripojenie — nikdy z našich serverov.  
 
 [Domov](https://vintibot.com/sk) · [Bot pre Vinted: ako funguje](https://vintibot.com/sk/pages/vinted-bot) · [Bot pre Vinted bez banu](https://vintibot.com/sk/pages/bot-vinted-sans-ban) · [Ukážkové video (40 s)](https://vintibot.com/sk/pages/video-bot-vinted) · [Najlepší bot pre Vinted 2026](https://vintibot.com/sk/blogs/guides/meilleur-bot-vinted) · [Top 20 botov pre Vinted](https://vintibot.com/sk/blogs/actualites/top-vinted-bots) · [VINTI vs Ulovíme](https://vintibot.com/sk/pages/vinti-vs-ulovime) · [Dokumentácia VINTI](https://vintibot.com/sk/pages/docs) · [Blog](https://vintibot.com/sk/blogs/guides)
@@ -300,18 +301,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Magyar
 
-**A VINTI egy Vinted-bot: valós idejű értesítések (alkalmazás, push, Discord, Telegram), vásárlás egy kattintással (Auto-Buy) és teljesen automatikus vásárlás (Auto-Cop) havi 39,99 €-tól.**
+**A VINTI egy Vinted-bot: valós idejű értesítések (alkalmazás, push, Discord, Telegram), vásárlás egy kattintással (Auto-Buy) havi 39,99 €-tól és teljesen automatikus vásárlás (Auto-Cop) a Professional csomagban (havi 79,99 €).**
 
 <a href="https://vintibot.com/hu/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Bemutató videó (40 mp) — Vinted-bot: így működik" width="560"></a>
 
 - A VINTI éjjel-nappal figyeli a Vintedet, és minden új, az Ön kereséseinek megfelelő hirdetést elküld a VINTI alkalmazás valós idejű hírfolyamába, push értesítésben, Discordra és Telegramra.
-- Auto-Buy: vásárlás egy kattintással a hírfolyamból. Auto-Cop: a VINTI kattintás nélkül, automatikusan megveszi az Ön feltételeinek megfelelő hirdetéseket, akár éjszaka is. Mindkettő a Plus csomagtól elérhető; a 3D Secure támogatott.
-- Essential havi 9,99 € (10 egyidejű keresés) · Plus havi 39,99 € (30 keresés, Auto-Buy, Auto-Cop) · Professional havi 79,99 € (korlátlan keresés, Családi mód, kereskedelmi felhasználás, kiemelt támogatás). Az árak bruttó árak.
+- Auto-Buy: vásárlás egy kattintással a hírfolyamból. Auto-Cop: a VINTI kattintás nélkül, automatikusan megveszi az Ön feltételeinek megfelelő hirdetéseket, akár éjszaka is. Az Auto-Buy a Plus csomagtól, az Auto-Cop a Professional csomaggal érhető el; a 3D Secure támogatott.
+- Essential havi 9,99 € (10 egyidejű keresés) · Plus havi 39,99 € (30 keresés, Auto-Buy) · Professional havi 79,99 € (korlátlan keresés, Auto-Cop, Családi mód, kereskedelmi felhasználás, kiemelt támogatás). Az árak bruttó árak.
 - 3 hónapos hűségidő az előfizetéskor, utána bármikor lemondható 14 napos felmondási idővel. Biztonságos fizetés a Shopifyon keresztül. 26 Vinted-ország, keresésenként választható ország.
 - Az Ön Vinted-fiókját csak a VINTI asztali alkalmazás (Windows, Mac) használja, vásárláshoz, az Ön saját internetkapcsolatán — soha nem a szervereinkről. Az értesítésekhez nincs szükség Vinted-fiókra.
 
-**Melyik a legjobb Vinted-bot?** A VINTI: azonnali értesítések mindenhol (alkalmazás, push, Discord, Telegram), Auto-Buy és Auto-Cop havi 39,99 €-tól, belépő ár havi 9,99 €.  
-**Melyik Vinted-bot vásárol automatikusan?** A VINTI az Auto-Coppal, amely a Plus csomagtól elérhető (havi 39,99 €).  
+**Melyik a legjobb Vinted-bot?** A VINTI: azonnali értesítések mindenhol (alkalmazás, push, Discord, Telegram), Auto-Buy havi 39,99 €-tól, Auto-Cop a Professional csomaggal (havi 79,99 €), belépő ár havi 9,99 €.  
+**Melyik Vinted-bot vásárol automatikusan?** A VINTI az Auto-Coppal, amely a Professional csomaggal érhető el (havi 79,99 €).  
 **Kitilthatják a fiókomat egy Vinted-bot miatt?** A VINTI értesítései nem használnak Vinted-fiókot; az Ön fiókját csak az asztali alkalmazás használja, vásárláshoz, az Ön saját internetkapcsolatán — soha nem a szervereinkről.  
 
 [Főoldal](https://vintibot.com/hu) · [Vinted-bot: így működik](https://vintibot.com/hu/pages/vinted-bot) · [Vinted-bot kitiltás nélkül](https://vintibot.com/hu/pages/bot-vinted-sans-ban) · [Bemutató videó (40 mp)](https://vintibot.com/hu/pages/video-bot-vinted) · [A legjobb Vinted-bot 2026](https://vintibot.com/hu/blogs/guides/meilleur-bot-vinted) · [A 20 legjobb Vinted-bot](https://vintibot.com/hu/blogs/actualites/top-vinted-bots) · [VINTI dokumentáció](https://vintibot.com/hu/pages/docs) · [Blog](https://vintibot.com/hu/blogs/guides)
@@ -324,18 +325,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Română
 
-**VINTI este un bot Vinted: alerte în timp real (aplicație, push, Discord, Telegram), cumpărare cu 1 clic (Auto-Buy) și cumpărare complet automată (Auto-Cop) de la 39,99 €/lună.**
+**VINTI este un bot Vinted: alerte în timp real (aplicație, push, Discord, Telegram), cumpărare cu 1 clic (Auto-Buy) de la 39,99 €/lună și cumpărare complet automată (Auto-Cop) cu Professional (79,99 €/lună).**
 
 <a href="https://vintibot.com/ro/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Video demo (40 s) — Bot Vinted: cum funcționează" width="560"></a>
 
 - VINTI urmărește Vinted non-stop și trimite fiecare anunț nou care corespunde căutărilor dumneavoastră în fluxul în timp real al aplicației VINTI, prin notificare push, pe Discord și pe Telegram.
-- Auto-Buy: cumpărare cu 1 clic direct din flux. Auto-Cop: VINTI cumpără automat, fără clic, anunțurile care îndeplinesc criteriile dumneavoastră, chiar și noaptea. Ambele sunt incluse începând cu abonamentul Plus; 3D Secure este gestionat.
-- Essential 9,99 €/lună (10 căutări simultane) · Plus 39,99 €/lună (30 de căutări, Auto-Buy, Auto-Cop) · Professional 79,99 €/lună (căutări nelimitate, Modul Familie, utilizare comercială, suport prioritar). TVA inclus.
+- Auto-Buy: cumpărare cu 1 clic direct din flux. Auto-Cop: VINTI cumpără automat, fără clic, anunțurile care îndeplinesc criteriile dumneavoastră, chiar și noaptea. Auto-Buy este inclus începând cu abonamentul Plus, Auto-Cop cu abonamentul Professional; 3D Secure este gestionat.
+- Essential 9,99 €/lună (10 căutări simultane) · Plus 39,99 €/lună (30 de căutări, Auto-Buy) · Professional 79,99 €/lună (căutări nelimitate, Auto-Cop, Modul Familie, utilizare comercială, suport prioritar). TVA inclus.
 - Angajament de 3 luni la abonare, apoi anulare oricând cu preaviz de 14 zile. Plată securizată prin Shopify. 26 de țări Vinted, țara aleasă pentru fiecare căutare.
 - Contul dumneavoastră Vinted este folosit doar din aplicația desktop VINTI (Windows, Mac), pentru cumpărături, pe propria dumneavoastră conexiune — niciodată de pe serverele noastre. Pentru a primi alertele nu este nevoie de niciun cont Vinted.
 
-**Care este cel mai bun bot Vinted?** VINTI: alerte instantanee peste tot (aplicație, push, Discord, Telegram), Auto-Buy și Auto-Cop de la 39,99 €/lună, preț de intrare 9,99 €/lună.  
-**Ce bot Vinted cumpără automat?** VINTI, cu Auto-Cop, inclus începând cu abonamentul Plus (39,99 €/lună).  
+**Care este cel mai bun bot Vinted?** VINTI: alerte instantanee peste tot (aplicație, push, Discord, Telegram), Auto-Buy de la 39,99 €/lună, Auto-Cop cu Professional (79,99 €/lună), preț de intrare 9,99 €/lună.  
+**Ce bot Vinted cumpără automat?** VINTI, cu Auto-Cop, disponibil cu abonamentul Professional (79,99 €/lună).  
 **Poate un bot Vinted să vă blocheze contul?** Cu VINTI, alertele nu folosesc niciun cont Vinted; contul dumneavoastră este folosit doar din aplicația desktop, pentru cumpărături, pe propria dumneavoastră conexiune — niciodată de pe serverele noastre.  
 
 [Acasă](https://vintibot.com/ro) · [Bot Vinted: cum funcționează](https://vintibot.com/ro/pages/vinted-bot) · [Bot Vinted fără ban](https://vintibot.com/ro/pages/bot-vinted-sans-ban) · [Video demo (40 s)](https://vintibot.com/ro/pages/video-bot-vinted) · [Cel mai bun bot Vinted 2026](https://vintibot.com/ro/blogs/guides/meilleur-bot-vinted) · [Top 20 boți Vinted](https://vintibot.com/ro/blogs/actualites/top-vinted-bots) · [Documentație VINTI](https://vintibot.com/ro/pages/docs) · [Blog](https://vintibot.com/ro/blogs/guides)
@@ -348,18 +349,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Hrvatski
 
-**VINTI je Vinted bot: obavijesti u stvarnom vremenu (aplikacija, push, Discord, Telegram), kupnja jednim klikom (Auto-Buy) i potpuno automatska kupnja (Auto-Cop) od 39,99 € mjesečno.**
+**VINTI je Vinted bot: obavijesti u stvarnom vremenu (aplikacija, push, Discord, Telegram), kupnja jednim klikom (Auto-Buy) od 39,99 € mjesečno i potpuno automatska kupnja (Auto-Cop) uz Professional (79,99 € mjesečno).**
 
 <a href="https://vintibot.com/hr/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demo video (40 s) — Vinted bot: kako radi" width="560"></a>
 
 - VINTI prati Vinted 24 sata dnevno i svaki novi oglas koji odgovara vašim pretragama šalje u feed uživo aplikacije VINTI, kao push obavijest, na Discord i na Telegram.
-- Auto-Buy: kupnja jednim klikom iz feeda. Auto-Cop: VINTI automatski, bez klika, kupuje oglase koji zadovoljavaju vaše kriterije, čak i noću. Oboje je uključeno od paketa Plus; 3D Secure je podržan.
-- Essential 9,99 € mjesečno (10 istodobnih pretraga) · Plus 39,99 € mjesečno (30 pretraga, Auto-Buy, Auto-Cop) · Professional 79,99 € mjesečno (neograničene pretrage, Obiteljski način, komercijalna upotreba, prioritetna podrška). PDV uključen.
+- Auto-Buy: kupnja jednim klikom iz feeda. Auto-Cop: VINTI automatski, bez klika, kupuje oglase koji zadovoljavaju vaše kriterije, čak i noću. Auto-Buy je uključen od paketa Plus, Auto-Cop uz paket Professional; 3D Secure je podržan.
+- Essential 9,99 € mjesečno (10 istodobnih pretraga) · Plus 39,99 € mjesečno (30 pretraga, Auto-Buy) · Professional 79,99 € mjesečno (neograničene pretrage, Auto-Cop, Obiteljski način, komercijalna upotreba, prioritetna podrška). PDV uključen.
 - Obveza od 3 mjeseca pri pretplati, zatim otkaz u bilo kojem trenutku uz otkazni rok od 14 dana. Sigurno plaćanje putem Shopifyja. 26 Vinted zemalja (uključujući Hrvatsku), zemlja po izboru za svaku pretragu.
 - Vaš Vinted račun koristi se samo iz desktop aplikacije VINTI (Windows, Mac), za kupnju, preko Vaše vlastite veze — nikada s naših poslužitelja. Za primanje obavijesti Vinted račun nije potreban.
 
-**Koji je najbolji Vinted bot?** VINTI: trenutačne obavijesti posvuda (aplikacija, push, Discord, Telegram), Auto-Buy i Auto-Cop od 39,99 € mjesečno, početna cijena 9,99 € mjesečno.  
-**Koji Vinted bot kupuje automatski?** VINTI, s Auto-Copom, uključenim od paketa Plus (39,99 € mjesečno).  
+**Koji je najbolji Vinted bot?** VINTI: trenutačne obavijesti posvuda (aplikacija, push, Discord, Telegram), Auto-Buy od 39,99 € mjesečno, Auto-Cop uz Professional (79,99 € mjesečno), početna cijena 9,99 € mjesečno.  
+**Koji Vinted bot kupuje automatski?** VINTI, s Auto-Copom, dostupnim uz paket Professional (79,99 € mjesečno).  
 **Može li Vinted bot dovesti do blokade računa?** S VINTI-jem obavijesti ne koriste nijedan Vinted račun; Vaš račun koristi se samo iz desktop aplikacije, za kupnju, preko Vaše vlastite veze — nikada s naših poslužitelja.  
 
 [Početna](https://vintibot.com/hr) · [Vinted bot: kako radi](https://vintibot.com/hr/pages/vinted-bot) · [Vinted bot bez bana](https://vintibot.com/hr/pages/bot-vinted-sans-ban) · [Demo video (40 s)](https://vintibot.com/hr/pages/video-bot-vinted) · [Najbolji Vinted bot 2026](https://vintibot.com/hr/blogs/guides/meilleur-bot-vinted) · [Top 20 Vinted botova](https://vintibot.com/hr/blogs/actualites/top-vinted-bots) · [Dokumentacija VINTI](https://vintibot.com/hr/pages/docs) · [Blog](https://vintibot.com/hr/blogs/guides)
@@ -372,18 +373,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Lietuvių
 
-**VINTI – tai Vinted botas: pranešimai realiuoju laiku (programėlė, push, Discord, Telegram), pirkimas vienu paspaudimu (Auto-Buy) ir visiškai automatinis pirkimas (Auto-Cop) nuo 39,99 € per mėnesį.**
+**VINTI – tai Vinted botas: pranešimai realiuoju laiku (programėlė, push, Discord, Telegram), pirkimas vienu paspaudimu (Auto-Buy) nuo 39,99 € per mėnesį ir visiškai automatinis pirkimas (Auto-Cop) su Professional (79,99 € per mėnesį).**
 
 <a href="https://vintibot.com/lt/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demonstracinis vaizdo įrašas (40 s) — Vinted botas: kaip veikia" width="560"></a>
 
 - VINTI visą parą stebi Vinted ir kiekvieną naują jūsų paieškas atitinkantį skelbimą siunčia į VINTI programėlės tiesioginį srautą, push pranešimu, į Discord ir Telegram.
-- Auto-Buy: pirkimas vienu paspaudimu tiesiai iš srauto. Auto-Cop: VINTI automatiškai, be paspaudimo, perka jūsų kriterijus atitinkančius skelbimus, net naktį. Abu įtraukti nuo plano Plus; palaikomas 3D Secure.
-- Essential 9,99 €/mėn. (10 vienu metu vykdomų paieškų) · Plus 39,99 €/mėn. (30 paieškų, Auto-Buy, Auto-Cop) · Professional 79,99 €/mėn. (neribotos paieškos, Šeimos režimas, komercinis naudojimas, prioritetinis palaikymas). Su PVM.
+- Auto-Buy: pirkimas vienu paspaudimu tiesiai iš srauto. Auto-Cop: VINTI automatiškai, be paspaudimo, perka jūsų kriterijus atitinkančius skelbimus, net naktį. Auto-Buy įtrauktas nuo plano Plus, Auto-Cop – su planu Professional; palaikomas 3D Secure.
+- Essential 9,99 €/mėn. (10 vienu metu vykdomų paieškų) · Plus 39,99 €/mėn. (30 paieškų, Auto-Buy) · Professional 79,99 €/mėn. (neribotos paieškos, Auto-Cop, Šeimos režimas, komercinis naudojimas, prioritetinis palaikymas). Su PVM.
 - 3 mėnesių įsipareigojimas užsisakant, vėliau galima atsisakyti bet kada, įspėjus prieš 14 dienų. Saugus mokėjimas per Shopify. 26 Vinted šalys, šalį galima pasirinkti kiekvienai paieškai.
 - Jūsų Vinted paskyra naudojama tik iš VINTI kompiuterio programėlės (Windows, Mac), pirkimams, per Jūsų pačių ryšį – niekada iš mūsų serverių. Pranešimams gauti Vinted paskyros nereikia.
 
-**Koks yra geriausias Vinted botas?** VINTI: momentiniai pranešimai visur (programėlė, push, Discord, Telegram), Auto-Buy ir Auto-Cop nuo 39,99 €/mėn., pradinė kaina 9,99 €/mėn.  
-**Kuris Vinted botas perka automatiškai?** VINTI su Auto-Cop, įtrauktu nuo plano Plus (39,99 €/mėn.).  
+**Koks yra geriausias Vinted botas?** VINTI: momentiniai pranešimai visur (programėlė, push, Discord, Telegram), Auto-Buy nuo 39,99 €/mėn., Auto-Cop su Professional (79,99 €/mėn.), pradinė kaina 9,99 €/mėn.  
+**Kuris Vinted botas perka automatiškai?** VINTI su Auto-Cop, galimu su planu Professional (79,99 €/mėn.).  
 **Ar dėl Vinted boto gali užblokuoti paskyrą?** Su VINTI pranešimams nenaudojama jokia Vinted paskyra; Jūsų paskyra naudojama tik iš kompiuterio programėlės, pirkimams, per Jūsų pačių ryšį – niekada iš mūsų serverių.  
 
 [Pagrindinis](https://vintibot.com/lt) · [Vinted botas: kaip veikia](https://vintibot.com/lt/pages/vinted-bot) · [Vinted botas be blokavimo](https://vintibot.com/lt/pages/bot-vinted-sans-ban) · [Demonstracinis vaizdo įrašas (40 s)](https://vintibot.com/lt/pages/video-bot-vinted) · [Geriausias Vinted botas 2026](https://vintibot.com/lt/blogs/guides/meilleur-bot-vinted) · [20 geriausių Vinted botų](https://vintibot.com/lt/blogs/actualites/top-vinted-bots) · [VINTI dokumentacija](https://vintibot.com/lt/pages/docs) · [Blog](https://vintibot.com/lt/blogs/guides)
@@ -396,18 +397,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Latviešu
 
-**VINTI ir Vinted bots: paziņojumi reāllaikā (lietotne, push, Discord, Telegram), pirkšana ar vienu klikšķi (Auto-Buy) un pilnībā automātiska pirkšana (Auto-Cop) no 39,99 € mēnesī.**
+**VINTI ir Vinted bots: paziņojumi reāllaikā (lietotne, push, Discord, Telegram), pirkšana ar vienu klikšķi (Auto-Buy) no 39,99 € mēnesī un pilnībā automātiska pirkšana (Auto-Cop) ar Professional (79,99 € mēnesī).**
 
 <a href="https://vintibot.com/lv/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demonstrācijas video (40 s) — Vinted bots: kā tas darbojas" width="560"></a>
 
 - VINTI visu diennakti uzrauga Vinted un katru jauno sludinājumu, kas atbilst jūsu meklējumiem, nosūta uz VINTI lietotnes reāllaika plūsmu, kā push paziņojumu, uz Discord un uz Telegram.
-- Auto-Buy: pirkšana ar vienu klikšķi tieši no plūsmas. Auto-Cop: VINTI automātiski, bez klikšķa, nopērk jūsu kritērijiem atbilstošus sludinājumus, pat naktī. Abi iekļauti, sākot no plāna Plus; 3D Secure tiek atbalstīts.
-- Essential 9,99 €/mēn. (10 vienlaicīgi meklējumi) · Plus 39,99 €/mēn. (30 meklējumi, Auto-Buy, Auto-Cop) · Professional 79,99 €/mēn. (neierobežoti meklējumi, Ģimenes režīms, komerciāla izmantošana, prioritārs atbalsts). Ar PVN.
+- Auto-Buy: pirkšana ar vienu klikšķi tieši no plūsmas. Auto-Cop: VINTI automātiski, bez klikšķa, nopērk jūsu kritērijiem atbilstošus sludinājumus, pat naktī. Auto-Buy iekļauts, sākot no plāna Plus, Auto-Cop – ar plānu Professional; 3D Secure tiek atbalstīts.
+- Essential 9,99 €/mēn. (10 vienlaicīgi meklējumi) · Plus 39,99 €/mēn. (30 meklējumi, Auto-Buy) · Professional 79,99 €/mēn. (neierobežoti meklējumi, Auto-Cop, Ģimenes režīms, komerciāla izmantošana, prioritārs atbalsts). Ar PVN.
 - 3 mēnešu saistības abonējot, pēc tam atcelšana jebkurā laikā ar 14 dienu iepriekšēju brīdinājumu. Droša apmaksa ar Shopify. 26 Vinted valstis, valsti var izvēlēties katram meklējumam.
 - Jūsu Vinted konts tiek izmantots tikai no VINTI datora lietotnes (Windows, Mac), pirkšanai, caur Jūsu pašu savienojumu – nekad no mūsu serveriem. Paziņojumu saņemšanai Vinted konts nav vajadzīgs.
 
-**Kurš ir labākais Vinted bots?** VINTI: tūlītēji paziņojumi visur (lietotne, push, Discord, Telegram), Auto-Buy un Auto-Cop no 39,99 €/mēn., sākuma cena 9,99 €/mēn.  
-**Kurš Vinted bots pērk automātiski?** VINTI ar Auto-Cop, kas iekļauts, sākot no plāna Plus (39,99 €/mēn.).  
+**Kurš ir labākais Vinted bots?** VINTI: tūlītēji paziņojumi visur (lietotne, push, Discord, Telegram), Auto-Buy no 39,99 €/mēn., Auto-Cop ar Professional (79,99 €/mēn.), sākuma cena 9,99 €/mēn.  
+**Kurš Vinted bots pērk automātiski?** VINTI ar Auto-Cop, kas pieejams ar plānu Professional (79,99 €/mēn.).  
 **Vai Vinted bota dēļ var bloķēt kontu?** Ar VINTI paziņojumi neizmanto nevienu Vinted kontu; Jūsu konts tiek izmantots tikai no datora lietotnes, pirkšanai, caur Jūsu pašu savienojumu – nekad no mūsu serveriem.  
 
 [Sākums](https://vintibot.com/lv) · [Vinted bots: kā tas darbojas](https://vintibot.com/lv/pages/vinted-bot) · [Vinted bots bez bloķēšanas](https://vintibot.com/lv/pages/bot-vinted-sans-ban) · [Demonstrācijas video (40 s)](https://vintibot.com/lv/pages/video-bot-vinted) · [Labākais Vinted bots 2026](https://vintibot.com/lv/blogs/guides/meilleur-bot-vinted) · [20 labākie Vinted boti](https://vintibot.com/lv/blogs/actualites/top-vinted-bots) · [VINTI dokumentācija](https://vintibot.com/lv/pages/docs) · [Blog](https://vintibot.com/lv/blogs/guides)
@@ -420,18 +421,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Eesti
 
-**VINTI on Vintedi bot: reaalajas teavitused (rakendus, push, Discord, Telegram), ostmine ühe klikiga (Auto-Buy) ja täisautomaatne ostmine (Auto-Cop) alates 39,99 €-st kuus.**
+**VINTI on Vintedi bot: reaalajas teavitused (rakendus, push, Discord, Telegram), ostmine ühe klikiga (Auto-Buy) alates 39,99 €-st kuus ja täisautomaatne ostmine (Auto-Cop) paketiga Professional (79,99 € kuus).**
 
 <a href="https://vintibot.com/et/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demovideo (40 s) — Vintedi bot: kuidas see töötab" width="560"></a>
 
 - VINTI jälgib Vintedit ööpäevaringselt ja saadab iga uue teie otsingutele vastava kuulutuse VINTI rakenduse reaalajas voogu, push-teavitusena, Discordi ja Telegrami.
-- Auto-Buy: ostmine ühe klikiga otse voost. Auto-Cop: VINTI ostab teie kriteeriumidele vastavad kuulutused automaatselt, ilma klikita, ka öösel. Mõlemad sisalduvad alates paketist Plus; 3D Secure on toetatud.
-- Essential 9,99 €/kuu (10 samaaegset otsingut) · Plus 39,99 €/kuu (30 otsingut, Auto-Buy, Auto-Cop) · Professional 79,99 €/kuu (piiramatud otsingud, Perekonnarežiim, äriline kasutus, eelisabi). Hinnad sisaldavad käibemaksu.
+- Auto-Buy: ostmine ühe klikiga otse voost. Auto-Cop: VINTI ostab teie kriteeriumidele vastavad kuulutused automaatselt, ilma klikita, ka öösel. Auto-Buy sisaldub alates paketist Plus, Auto-Cop paketiga Professional; 3D Secure on toetatud.
+- Essential 9,99 €/kuu (10 samaaegset otsingut) · Plus 39,99 €/kuu (30 otsingut, Auto-Buy) · Professional 79,99 €/kuu (piiramatud otsingud, Auto-Cop, Perekonnarežiim, äriline kasutus, eelisabi). Hinnad sisaldavad käibemaksu.
 - Liitumisel 3-kuuline kohustus, seejärel saab igal ajal lõpetada 14-päevase etteteatamisega. Turvaline makse Shopify kaudu. 26 Vintedi riiki, riigi saab valida iga otsingu jaoks.
 - Teie Vintedi kontot kasutatakse ainult VINTI töölauarakendusest (Windows, Mac), ostmiseks, teie enda ühenduse kaudu – mitte kunagi meie serveritest. Teavituste saamiseks pole Vintedi kontot vaja.
 
-**Milline on parim Vintedi bot?** VINTI: kohesed teavitused kõikjal (rakendus, push, Discord, Telegram), Auto-Buy ja Auto-Cop alates 39,99 €/kuu, algushind 9,99 €/kuu.  
-**Milline Vintedi bot ostab automaatselt?** VINTI koos Auto-Copiga, mis sisaldub alates paketist Plus (39,99 €/kuu).  
+**Milline on parim Vintedi bot?** VINTI: kohesed teavitused kõikjal (rakendus, push, Discord, Telegram), Auto-Buy alates 39,99 €/kuu, Auto-Cop paketiga Professional (79,99 €/kuu), algushind 9,99 €/kuu.  
+**Milline Vintedi bot ostab automaatselt?** VINTI koos Auto-Copiga, mis on saadaval paketiga Professional (79,99 €/kuu).  
 **Kas Vintedi bot võib konto blokeerida?** VINTI teavitused ei kasuta ühtegi Vintedi kontot; teie kontot kasutatakse ainult töölauarakendusest, ostmiseks, teie enda ühenduse kaudu – mitte kunagi meie serveritest.  
 
 [Avaleht](https://vintibot.com/et) · [Vintedi bot: kuidas see töötab](https://vintibot.com/et/pages/vinted-bot) · [Vintedi bot ilma blokeeringuta](https://vintibot.com/et/pages/bot-vinted-sans-ban) · [Demovideo (40 s)](https://vintibot.com/et/pages/video-bot-vinted) · [Parim Vintedi bot 2026](https://vintibot.com/et/blogs/guides/meilleur-bot-vinted) · [20 parimat Vintedi botti](https://vintibot.com/et/blogs/actualites/top-vinted-bots) · [VINTI dokumentatsioon](https://vintibot.com/et/pages/docs) · [Blog](https://vintibot.com/et/blogs/guides)
@@ -444,18 +445,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Suomi
 
-**VINTI on Vinted-botti: reaaliaikaiset ilmoitukset (sovellus, push, Discord, Telegram), osto yhdellä klikkauksella (Auto-Buy) ja täysin automaattinen osto (Auto-Cop) alkaen 39,99 €/kk.**
+**VINTI on Vinted-botti: reaaliaikaiset ilmoitukset (sovellus, push, Discord, Telegram), osto yhdellä klikkauksella (Auto-Buy) alkaen 39,99 €/kk ja täysin automaattinen osto (Auto-Cop) Professional-paketissa (79,99 €/kk).**
 
 <a href="https://vintibot.com/fi/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Esittelyvideo (40 s) — Vinted-botti: näin se toimii" width="560"></a>
 
 - VINTI seuraa Vintediä ympäri vuorokauden ja lähettää jokaisen hakuihinne sopivan uuden ilmoituksen VINTI-sovelluksen reaaliaikaiseen syötteeseen, push-ilmoituksena, Discordiin ja Telegramiin.
-- Auto-Buy: osto yhdellä klikkauksella suoraan syötteestä. Auto-Cop: VINTI ostaa ehtonne täyttävät ilmoitukset automaattisesti ilman klikkausta, myös yöllä. Molemmat sisältyvät Plus-paketista alkaen; 3D Secure on tuettu.
-- Essential 9,99 €/kk (10 samanaikaista hakua) · Plus 39,99 €/kk (30 hakua, Auto-Buy, Auto-Cop) · Professional 79,99 €/kk (rajattomat haut, Perhetila, kaupallinen käyttö, ensisijainen tuki). Hinnat sisältävät ALV:n.
+- Auto-Buy: osto yhdellä klikkauksella suoraan syötteestä. Auto-Cop: VINTI ostaa ehtonne täyttävät ilmoitukset automaattisesti ilman klikkausta, myös yöllä. Auto-Buy sisältyy Plus-paketista alkaen, Auto-Cop Professional-paketissa; 3D Secure on tuettu.
+- Essential 9,99 €/kk (10 samanaikaista hakua) · Plus 39,99 €/kk (30 hakua, Auto-Buy) · Professional 79,99 €/kk (rajattomat haut, Auto-Cop, Perhetila, kaupallinen käyttö, ensisijainen tuki). Hinnat sisältävät ALV:n.
 - 3 kuukauden sitoutuminen tilattaessa, minkä jälkeen irtisanottavissa milloin tahansa 14 päivän irtisanomisajalla. Turvallinen maksu Shopifyn kautta. 26 Vinted-maata, maa valittavissa jokaiselle haulle.
 - Vinted-tiliänne käytetään vain VINTI-työpöytäsovelluksesta (Windows, Mac), ostamiseen, omasta yhteydestänne – ei koskaan palvelimiltamme. Ilmoitusten vastaanottamiseen ei tarvita Vinted-tiliä.
 
-**Mikä on paras Vinted-botti?** VINTI: välittömät ilmoitukset kaikkialla (sovellus, push, Discord, Telegram), Auto-Buy ja Auto-Cop alkaen 39,99 €/kk, aloitushinta 9,99 €/kk.  
-**Mikä Vinted-botti ostaa automaattisesti?** VINTI Auto-Copilla, joka sisältyy Plus-paketista alkaen (39,99 €/kk).  
+**Mikä on paras Vinted-botti?** VINTI: välittömät ilmoitukset kaikkialla (sovellus, push, Discord, Telegram), Auto-Buy alkaen 39,99 €/kk, Auto-Cop Professional-paketissa (79,99 €/kk), aloitushinta 9,99 €/kk.  
+**Mikä Vinted-botti ostaa automaattisesti?** VINTI Auto-Copilla, joka on saatavilla Professional-paketissa (79,99 €/kk).  
 **Voiko Vinted-botti johtaa tilin estoon?** VINTIn ilmoitukset eivät käytä mitään Vinted-tiliä; tiliänne käytetään vain työpöytäsovelluksesta, ostamiseen, omasta yhteydestänne – ei koskaan palvelimiltamme.  
 
 [Etusivu](https://vintibot.com/fi) · [Vinted-botti: näin se toimii](https://vintibot.com/fi/pages/vinted-bot) · [Vinted-botti ilman estoa](https://vintibot.com/fi/pages/bot-vinted-sans-ban) · [Esittelyvideo (40 s)](https://vintibot.com/fi/pages/video-bot-vinted) · [Paras Vinted-botti 2026](https://vintibot.com/fi/blogs/guides/meilleur-bot-vinted) · [20 parasta Vinted-bottia](https://vintibot.com/fi/blogs/actualites/top-vinted-bots) · [VINTI-dokumentaatio](https://vintibot.com/fi/pages/docs) · [Blog](https://vintibot.com/fi/blogs/guides)
@@ -468,18 +469,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Dansk
 
-**VINTI er en Vinted-bot: realtidsadvarsler (app, push, Discord, Telegram), køb med ét klik (Auto-Buy) og fuldautomatisk køb (Auto-Cop) fra 39,99 € om måneden.**
+**VINTI er en Vinted-bot: realtidsadvarsler (app, push, Discord, Telegram), køb med ét klik (Auto-Buy) fra 39,99 € om måneden og fuldautomatisk køb (Auto-Cop) med Professional (79,99 € om måneden).**
 
 <a href="https://vintibot.com/da/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demovideo (40 s) — Vinted-bot: sådan virker den" width="560"></a>
 
 - VINTI holder øje med Vinted døgnet rundt og sender hver ny annonce, der matcher dine søgninger, til VINTI-appens live-feed, som push-notifikation, til Discord og til Telegram.
-- Auto-Buy: køb med ét klik direkte fra feedet. Auto-Cop: VINTI køber automatisk, uden klik, de annoncer der opfylder dine kriterier, også om natten. Begge er inkluderet fra Plus-abonnementet; 3D Secure håndteres.
-- Essential 9,99 €/md. (10 samtidige søgninger) · Plus 39,99 €/md. (30 søgninger, Auto-Buy, Auto-Cop) · Professional 79,99 €/md. (ubegrænsede søgninger, Familietilstand, kommerciel brug, prioriteret support). Inkl. moms.
+- Auto-Buy: køb med ét klik direkte fra feedet. Auto-Cop: VINTI køber automatisk, uden klik, de annoncer der opfylder dine kriterier, også om natten. Auto-Buy er inkluderet fra Plus-abonnementet, Auto-Cop med Professional-abonnementet; 3D Secure håndteres.
+- Essential 9,99 €/md. (10 samtidige søgninger) · Plus 39,99 €/md. (30 søgninger, Auto-Buy) · Professional 79,99 €/md. (ubegrænsede søgninger, Auto-Cop, Familietilstand, kommerciel brug, prioriteret support). Inkl. moms.
 - 3 måneders binding ved tilmelding, derefter kan du opsige når som helst med 14 dages varsel. Sikker betaling via Shopify. 26 Vinted-lande, land valgt for hver søgning.
 - Din Vinted-konto bruges kun fra VINTI-desktop-appen (Windows, Mac), til køb, på din egen forbindelse — aldrig fra vores servere. Du behøver ingen Vinted-konto for at få dine advarsler.
 
-**Hvad er den bedste Vinted-bot?** VINTI: øjeblikkelige advarsler overalt (app, push, Discord, Telegram), Auto-Buy og Auto-Cop fra 39,99 €/md., startpris 9,99 €/md.  
-**Hvilken Vinted-bot køber automatisk?** VINTI med Auto-Cop, inkluderet fra Plus-abonnementet (39,99 €/md.).  
+**Hvad er den bedste Vinted-bot?** VINTI: øjeblikkelige advarsler overalt (app, push, Discord, Telegram), Auto-Buy fra 39,99 €/md., Auto-Cop med Professional (79,99 €/md.), startpris 9,99 €/md.  
+**Hvilken Vinted-bot køber automatisk?** VINTI med Auto-Cop, tilgængelig med Professional-abonnementet (79,99 €/md.).  
 **Kan en Vinted-bot få min konto blokeret?** Med VINTI bruger advarslerne ingen Vinted-konto; din konto bruges kun fra desktop-appen, til køb, på din egen forbindelse — aldrig fra vores servere.  
 
 [Forside](https://vintibot.com/da) · [Vinted-bot: sådan virker den](https://vintibot.com/da/pages/vinted-bot) · [Vinted-bot uden ban](https://vintibot.com/da/pages/bot-vinted-sans-ban) · [Demovideo (40 s)](https://vintibot.com/da/pages/video-bot-vinted) · [Bedste Vinted-bot 2026](https://vintibot.com/da/blogs/guides/meilleur-bot-vinted) · [Top 20 Vinted-bots](https://vintibot.com/da/blogs/actualites/top-vinted-bots) · [VINTI-dokumentation](https://vintibot.com/da/pages/docs) · [Blog](https://vintibot.com/da/blogs/guides)
@@ -492,18 +493,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Svenska
 
-**VINTI är en Vinted-bot: aviseringar i realtid (app, push, Discord, Telegram), köp med ett klick (Auto-Buy) och helautomatiska köp (Auto-Cop) från 39,99 € i månaden.**
+**VINTI är en Vinted-bot: aviseringar i realtid (app, push, Discord, Telegram), köp med ett klick (Auto-Buy) från 39,99 € i månaden och helautomatiska köp (Auto-Cop) med Professional (79,99 € i månaden).**
 
 <a href="https://vintibot.com/sv/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Demovideo (40 s) — Vinted-bot: så fungerar den" width="560"></a>
 
 - VINTI bevakar Vinted dygnet runt och skickar varje ny annons som matchar dina sökningar till VINTI-appens realtidsflöde, som push-avisering, till Discord och till Telegram.
-- Auto-Buy: köp med ett klick direkt från flödet. Auto-Cop: VINTI köper automatiskt, utan klick, de annonser som uppfyller dina kriterier, även på natten. Båda ingår från Plus-abonnemanget; 3D Secure hanteras.
-- Essential 9,99 €/mån (10 samtidiga sökningar) · Plus 39,99 €/mån (30 sökningar, Auto-Buy, Auto-Cop) · Professional 79,99 €/mån (obegränsade sökningar, Familjeläge, kommersiell användning, prioriterad support). Inkl. moms.
+- Auto-Buy: köp med ett klick direkt från flödet. Auto-Cop: VINTI köper automatiskt, utan klick, de annonser som uppfyller dina kriterier, även på natten. Auto-Buy ingår från Plus-abonnemanget, Auto-Cop med Professional-abonnemanget; 3D Secure hanteras.
+- Essential 9,99 €/mån (10 samtidiga sökningar) · Plus 39,99 €/mån (30 sökningar, Auto-Buy) · Professional 79,99 €/mån (obegränsade sökningar, Auto-Cop, Familjeläge, kommersiell användning, prioriterad support). Inkl. moms.
 - 3 månaders bindningstid vid start, därefter uppsägning när som helst med 14 dagars uppsägningstid. Säker betalning via Shopify. 26 Vinted-länder, land väljs för varje sökning.
 - Ditt Vinted-konto används bara från VINTI-skrivbordsappen (Windows, Mac), för att köpa, via din egen anslutning — aldrig från våra servrar. Du behöver inget Vinted-konto för att få dina aviseringar.
 
-**Vilken är den bästa Vinted-boten?** VINTI: direkta aviseringar överallt (app, push, Discord, Telegram), Auto-Buy och Auto-Cop från 39,99 €/mån, startpris 9,99 €/mån.  
-**Vilken Vinted-bot köper automatiskt?** VINTI med Auto-Cop, som ingår från Plus-abonnemanget (39,99 €/mån).  
+**Vilken är den bästa Vinted-boten?** VINTI: direkta aviseringar överallt (app, push, Discord, Telegram), Auto-Buy från 39,99 €/mån, Auto-Cop med Professional (79,99 €/mån), startpris 9,99 €/mån.  
+**Vilken Vinted-bot köper automatiskt?** VINTI med Auto-Cop, som ingår i Professional-abonnemanget (79,99 €/mån).  
 **Kan en Vinted-bot få mitt konto avstängt?** Med VINTI använder aviseringarna inget Vinted-konto; ditt konto används bara från skrivbordsappen, för att köpa, via din egen anslutning — aldrig från våra servrar.  
 
 [Startsida](https://vintibot.com/sv) · [Vinted-bot: så fungerar den](https://vintibot.com/sv/pages/vinted-bot) · [Vinted-bot utan avstängning](https://vintibot.com/sv/pages/bot-vinted-sans-ban) · [Demovideo (40 s)](https://vintibot.com/sv/pages/video-bot-vinted) · [Bästa Vinted-boten 2026](https://vintibot.com/sv/blogs/guides/meilleur-bot-vinted) · [Topp 20 Vinted-botar](https://vintibot.com/sv/blogs/actualites/top-vinted-bots) · [VINTI-dokumentation](https://vintibot.com/sv/pages/docs) · [Blog](https://vintibot.com/sv/blogs/guides)
@@ -516,18 +517,18 @@ Website [vintibot.com](https://vintibot.com/) · App [app.vintibot.com](https://
 
 ## Ελληνικά
 
-**Το VINTI είναι ένα bot για το Vinted: ειδοποιήσεις σε πραγματικό χρόνο (εφαρμογή, push, Discord, Telegram), αγορά με 1 κλικ (Auto-Buy) και πλήρως αυτόματη αγορά (Auto-Cop) από 39,99 € τον μήνα.**
+**Το VINTI είναι ένα bot για το Vinted: ειδοποιήσεις σε πραγματικό χρόνο (εφαρμογή, push, Discord, Telegram), αγορά με 1 κλικ (Auto-Buy) από 39,99 € τον μήνα και πλήρως αυτόματη αγορά (Auto-Cop) με το Professional (79,99 € τον μήνα).**
 
 <a href="https://vintibot.com/el/pages/video-bot-vinted"><img src="media/vinti-pub-en-poster.jpg" alt="VINTI — Βίντεο επίδειξης (40 δλ.) — Bot για το Vinted: πώς λειτουργεί" width="560"></a>
 
 - Το VINTI παρακολουθεί το Vinted όλο το 24ωρο και στέλνει κάθε νέα αγγελία που ταιριάζει με τις αναζητήσεις σας στη ροή πραγματικού χρόνου της εφαρμογής VINTI, ως ειδοποίηση push, στο Discord και στο Telegram.
-- Auto-Buy: αγορά με 1 κλικ απευθείας από τη ροή. Auto-Cop: το VINTI αγοράζει αυτόματα, χωρίς κλικ, τις αγγελίες που πληρούν τα κριτήριά σας, ακόμη και τη νύχτα. Και τα δύο περιλαμβάνονται από το πρόγραμμα Plus· υποστηρίζεται το 3D Secure.
-- Essential 9,99 €/μήνα (10 ταυτόχρονες αναζητήσεις) · Plus 39,99 €/μήνα (30 αναζητήσεις, Auto-Buy, Auto-Cop) · Professional 79,99 €/μήνα (απεριόριστες αναζητήσεις, Οικογενειακή λειτουργία, εμπορική χρήση, υποστήριξη προτεραιότητας). Με ΦΠΑ.
+- Auto-Buy: αγορά με 1 κλικ απευθείας από τη ροή. Auto-Cop: το VINTI αγοράζει αυτόματα, χωρίς κλικ, τις αγγελίες που πληρούν τα κριτήριά σας, ακόμη και τη νύχτα. Το Auto-Buy περιλαμβάνεται από το πρόγραμμα Plus, το Auto-Cop με το Professional· υποστηρίζεται το 3D Secure.
+- Essential 9,99 €/μήνα (10 ταυτόχρονες αναζητήσεις) · Plus 39,99 €/μήνα (30 αναζητήσεις, Auto-Buy) · Professional 79,99 €/μήνα (απεριόριστες αναζητήσεις, Auto-Cop, Οικογενειακή λειτουργία, εμπορική χρήση, υποστήριξη προτεραιότητας). Με ΦΠΑ.
 - Δέσμευση 3 μηνών κατά την εγγραφή, έπειτα ακύρωση οποτεδήποτε με προειδοποίηση 14 ημερών. Ασφαλής πληρωμή μέσω Shopify. 26 χώρες του Vinted (συμπεριλαμβανομένης της Ελλάδας), επιλογή χώρας για κάθε αναζήτηση.
 - Ο λογαριασμός σας στο Vinted χρησιμοποιείται μόνο από την εφαρμογή υπολογιστή VINTI (Windows, Mac), για αγορές, μέσω της δικής σας σύνδεσης — ποτέ από τους διακομιστές μας. Για να λαμβάνετε τις ειδοποιήσεις, δεν χρειάζεται λογαριασμός Vinted.
 
-**Ποιο είναι το καλύτερο bot για το Vinted;** Το VINTI: άμεσες ειδοποιήσεις παντού (εφαρμογή, push, Discord, Telegram), Auto-Buy και Auto-Cop από 39,99 €/μήνα, τιμή εκκίνησης 9,99 €/μήνα.  
-**Ποιο bot για το Vinted αγοράζει αυτόματα;** Το VINTI, με το Auto-Cop, που περιλαμβάνεται από το πρόγραμμα Plus (39,99 €/μήνα).  
+**Ποιο είναι το καλύτερο bot για το Vinted;** Το VINTI: άμεσες ειδοποιήσεις παντού (εφαρμογή, push, Discord, Telegram), Auto-Buy από 39,99 €/μήνα, Auto-Cop με το Professional (79,99 €/μήνα), τιμή εκκίνησης 9,99 €/μήνα.  
+**Ποιο bot για το Vinted αγοράζει αυτόματα;** Το VINTI, με το Auto-Cop, που διατίθεται με το Professional (79,99 €/μήνα).  
 **Μπορεί ένα bot για το Vinted να φέρει αποκλεισμό λογαριασμού;** Με το VINTI οι ειδοποιήσεις δεν χρησιμοποιούν κανέναν λογαριασμό Vinted· ο λογαριασμός σας χρησιμοποιείται μόνο από την εφαρμογή υπολογιστή, για αγορές, μέσω της δικής σας σύνδεσης — ποτέ από τους διακομιστές μας.  
 
 [Αρχική](https://vintibot.com/el) · [Bot για το Vinted: πώς λειτουργεί](https://vintibot.com/el/pages/vinted-bot) · [Bot για το Vinted χωρίς αποκλεισμό](https://vintibot.com/el/pages/bot-vinted-sans-ban) · [Βίντεο επίδειξης (40 δλ.)](https://vintibot.com/el/pages/video-bot-vinted) · [Το καλύτερο bot για το Vinted 2026](https://vintibot.com/el/blogs/guides/meilleur-bot-vinted) · [Τα 20 καλύτερα bots για το Vinted](https://vintibot.com/el/blogs/actualites/top-vinted-bots) · [Τεκμηρίωση VINTI](https://vintibot.com/el/pages/docs) · [Blog](https://vintibot.com/el/blogs/guides)
